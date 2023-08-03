@@ -1,16 +1,14 @@
-Acronym,| Definition
-AAA| Authentication, Authorization, and Accounting
+Acronym | Definition
+AAA | Authentication, Authorization, and Accounting
 AC | Alternating Current
 ACL | Access Control List
 ADF | Automatic Document Feeder
 AES | Advanced Encryption Standard
 AP | Access Point
 APFS | Apple File System
-APIPA | Automatic Private Internet Protocol
-Addressing
+APIPA | Automatic Private Internet Protocol Addressing
 APK | Android Package
-ARM | Advanced RISC [Reduced Instruction Set
-Computer] Machine
+ARM | Advanced RISC [Reduced Instruction Set Computer] Machine
 ARP | Address Resolution Protocol
 ATA | Advanced Technology Attachment
 ATM | Asynchronous Transfer Mode
@@ -20,9 +18,7 @@ BIOS | Basic Input/Output System
 BSOD | Blue Screen of Death
 BYOD | Bring Your Own Device
 CAD | Computer-aided Design
-
-CAPTCHA | Completely Automated Public Turing Test to Tell Computers Humans Apart
-
+CAPTCHA | Completely Automated Public Turing Test to Tell Computers-Humans Apart
 CD | Compact Disc
 CDFS | Compact Disc File System
 CDMA | Code-Division Multiple Access
@@ -120,41 +116,39 @@ MSDS | Material Safety Data Sheet
 MSRA | Microsoft Remote Assistance
 MX | Mail Exchange
 NAC | Network Access Control
-NAT Network Address Translation
-NDA Non-disclosure Agreement
-NetBIOS Networked Basic Input/Output System
-NetBT NetBIOS over TCP/IP [Transmission Control
-Protocol/Internet Protocol]
-NFC Near-field Communication
-NFS Network File System
-NIC Network Interface Card
-NTFS New Technology File System
-NVMe Non-volatile Memory Express
-OCR Optical Character Recognition
-OLED Organic Light-emitting Diode
-ONT Optical Network Terminal
-OS Operating System
-PaaS Platform as a Service
-PAN Personal Area Network
-PC Personal Computer
-PCIe Peripheral Component Interconnect Express
-PCL Printer Command Language
-PE Preinstallation Environment
-PII Personally Identifiable Information
-PIN Personal Identification Number
-PKI Public Key Infrastructure
-PoE Power over Ethernet
-POP3 Post Office Protocol 3
-POST Power-on Self-Test
-PPP Point-to-Point Protocol
-PRL Preferred Roaming List
-PSU Power Supply Unit
-PXE Preboot Execution Environment
-RADIUS Remote Authentication Dial-in User Service
-RAID Redundant Array of Independent (or
-Inexpensive) Disks
-RAM Random-access Memory
-RDP Remote Desktop Protocol
+NAT | Network Address Translation
+NDA | Non-disclosure Agreement
+NetBIOS | Networked Basic Input/Output System
+NetBT | NetBIOS over TCP/IP
+NFC | Near-field Communication
+NFS | Network File System
+NIC | Network Interface Card
+NTFS | New Technology File System
+NVMe | Non-volatile Memory Express
+OCR | Optical Character Recognition
+OLED | Organic Light-emitting Diode
+ONT | Optical Network Terminal
+OS | Operating System
+PaaS | Platform as a Service
+PAN | Personal Area Network
+PC | Personal Computer
+PCIe | Peripheral Component Interconnect Express
+PCL | Printer Command Language
+PE | Preinstallation Environment
+PII | Personally Identifiable Information
+PIN | Personal Identification Number
+PKI | Public Key Infrastructure
+PoE | Power over Ethernet
+POP3 | Post Office Protocol 3
+POST | Power-on Self-Test
+PPP | Point-to-Point Protocol
+PRL | Preferred Roaming List
+PSU | Power Supply Unit
+PXE |Preboot Execution Environment
+RADIUS | Remote Authentication Dial-in User Service
+RAID | Redundant Array of Independent/Inexpensive Disks
+RAM | Random-access Memory
+RDP | Remote Desktop Protocol
 RF | Radio Frequency
 RFI | Radio-Frequency Interference
 RFID | Radio-Frequency Identification

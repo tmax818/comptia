@@ -1,6 +1,6 @@
 # 3.0 Hardware
 
-## Explain basic cable types and their connectors, features, and purposes.
+## 3.1 Explain basic cable types and their connectors, features, and purposes.
 
 - Network cables
     - Copper

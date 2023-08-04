@@ -1,0 +1,46 @@
+# 3.1 Explain basic cable types and their connectors, features, and purposes.
+
+## Network cables
+- Copper
+    - Cat 5
+    - Cat 5e
+    - Cat 6
+    - Cat 6a
+    - Coaxial
+    - Shielded twisted pair
+      - Direct burial
+    - Unshielded twisted pair
+- Plenum
+- Optical
+  - Fiber
+- T568A/T568B
+- Peripheral cables
+    - USB 2.0
+    - USB 3.0
+    - Serial
+    - Thunderbolt
+- Video cables
+    - High-Definition Multimedia Interface(HDMI)
+    - DisplayPort
+    - Digital Visual Interface(DVI)
+    - Video Graphics Array(VGA)
+- Hard drive cables
+  - Serial Advanced Technology Attachment(SATA)
+  - Small Computer SystemInterface(SCSI)
+  - External SATA(eSATA)
+  - Integrated Drive Electronics(IDE)
+- Adapters
+- Connector types
+  - RJ11
+  - RJ45
+  - F type
+  - Straight tip (ST)
+  - Subscriber connector (SC)
+  - Lucent connector (LC)
+  - Punchdown block
+  - microUSB
+  - miniUSB
+  - USB-C
+  - Molex
+  - Lightning port
+  - DB9

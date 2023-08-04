@@ -25,6 +25,8 @@
   - Connection-oriented
     - HTTPS
     - SSH
+
+
 ## 2.2 Compare and contrast common networking hardware.
 
 - Routers
@@ -47,6 +49,7 @@
 (SDN)
 
 ## 2.3 Compare and contrast protocols for wireless networking.
+
 - Frequencies
   - 2.4GHz
   - 5GHz

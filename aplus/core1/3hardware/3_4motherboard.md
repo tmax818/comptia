@@ -1,0 +1,48 @@
+## 3.4 Given a scenario, install and configure motherboards, central processing units (CPUs), and add-on cards.
+
+- Motherboard form factor
+  - Advanced Technology eXtended(ATX)
+  - Information Technology eXtended (ITX)
+- Motherboard connector types
+  - Peripheral Component Interconnect (PCI)
+  - PCI Express (PCIe)
+  - Power connectors
+  - SATA
+  - eSATA
+  - Headers
+  - M.2
+- Motherboard compatibility
+  - CPU sockets
+    - Advanced Micro Devices, Inc.(AMD)
+    - Intel
+  - Server
+  - Multisocket
+  - Desktop
+  - Mobile
+- Basic Input/Output System (BIOS)/Unified Extensible Firmware Interface (UEFI) settings
+  - Boot options
+  - USB permissions
+  - Trusted Platform Module(TPM) security features
+  - Fan considerations
+  - Secure Boot
+  - Boot password
+- Encryption
+- TPM
+- Hardware security module (HSM)
+- CPU architecture
+  - x64/x86
+  - Advanced RISC Machine (ARM)
+  - Single-core
+  - Multicore
+  - Multithreading
+  - Virtualization support
+- Expansion cards
+  - Sound card
+  - Video card
+  - Capture card
+  - NIC
+- Cooling
+  - Fans
+  - Heat sink
+  - Thermal paste/pads
+  - Liquid

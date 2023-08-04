@@ -91,17 +91,16 @@
 ## 3.4 Given a scenario, install and configure motherboards, central processing units (CPUs), and add-on cards.
 
 - Motherboard form factor
-- Advanced Technology eXtended(ATX)
-- Information Technology eXtended (ITX)
+  - Advanced Technology eXtended(ATX)
+  - Information Technology eXtended (ITX)
 - Motherboard connector types
-- Peripheral Component
-Interconnect (PCI)
-- PCI Express (PCIe)
-- Power connectors
-- SATA
-- eSATA
-- Headers
-- M.2
+  - Peripheral Component Interconnect (PCI)
+  - PCI Express (PCIe)
+  - Power connectors
+  - SATA
+  - eSATA
+  - Headers
+  - M.2
 - Motherboard compatibility
   - CPU sockets
     - Advanced Micro Devices, Inc.(AMD)

@@ -28,7 +28,7 @@
 - Touch screen/digitizer
 - Inverter
 
-1.3 Given a scenario, set up and configure accessories and ports of mobile devices.
+## 1.3 Given a scenario, set up and configure accessories and ports of mobile devices.
 
 - Connection methods
 - Universal Serial Bus(USB)/USB-C/microUSB/miniUSB
@@ -47,8 +47,7 @@
 - Trackpad/drawing pad
 
 
-1.4 Given a scenario, configure basic mobile-device network
-connectivity and application support.
+## 1.4 Given a scenario, configure basic mobile-device network connectivity and application support.
 
 - Wireless/cellular data network(enable/disable)
   - 2G/3G/4G/5G

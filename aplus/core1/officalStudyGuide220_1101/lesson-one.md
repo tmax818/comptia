@@ -32,7 +32,7 @@ A PC is made up of many different components. All these components need to be ab
  
  The components of a personal computer (PC) are divided between those that are designed to be handled by the user—peripheral devices—and those that would be damaged or dangerous if exposed. Peripheral devices typically perform the function of input (keyboard, mouse, microphone, and camera), output (monitor and speakers), or external storage.
  
-The system case/chassis houses the internal components. These include the motherboard, central processing unit ([CPU]), system memory modules, adapter cards, fixed disks, and power supply unit. Most cases use a tower form factor that is designed to be oriented vertically and can be placed on a desk or on the floor.
+The system case/chassis houses the internal components. These include the motherboard, central processing unit [CPU], system memory modules, adapter cards, fixed disks, and power supply unit. Most cases use a tower form factor that is designed to be oriented vertically and can be placed on a desk or on the floor.
  
 PCs can also be purchased as all-in-one units. All-in-one means that the internal components are contained within a case that is also a monitor.
 

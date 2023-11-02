@@ -22,7 +22,7 @@ airplane mode | A toggle found on mobile devices enabling the user to disable an
 
 app store | Feature of mobile computing that provides a managed interface for installing third-party software apps.
 
-application programming interface (API)  Library of programming utilities used, for example, to enable software developers to access functions of the TCP/IP network stack under a particular operating system.
+API | application programming interface (API)  Library of programming utilities used, for example, to enable software developers to access functions of the TCP/IP network stack under a particular operating system.
 
 application virtualization | Software delivery model where the code runs on a server and is streamed to a client.
 
@@ -34,9 +34,9 @@ APIPA | automatic private IP addressing (APIPA) Mechanism for Windows hosts conf
 
 backlight | LED or fluorescent lamp that illuminates the image on a flat-panel (TFT) screen. If the backlight component fails, only a dim image will be shown.
 
-BIOS basic input/output system (BIOS)  Legacy 32-bit firmware type that initializes hardware and provides a system setup interface for configuring boot devices and other hardware settings.
+BIOS basic input/output system (BIOS) Legacy 32-bit firmware type that initializes hardware and provides a system setup interface for configuring boot devices and other hardware settings.
 
-BSSID | basic service set ID (BSSID)  MAC address of an access point supporting a basic service area.
+BSSID | basic service set ID (BSSID) MAC address of an access point supporting a basic service area.
 
 battery | Power source for a portable computer, typically a rechargeable Lithium-ion (Li-ion) type. A small coin cell battery is also used in a computer to power CMOS RAM.
 

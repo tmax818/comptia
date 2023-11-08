@@ -1,0 +1,17 @@
+{
+  "name": "comptia",
+  "version": "1.0.0",
+  "description": "comptia study guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comptia"
+  ],
+  "author": "tmax818",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0"
+  }
+}

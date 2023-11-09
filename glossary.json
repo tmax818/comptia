@@ -2,1423 +2,2122 @@
  {
   "acronym": "",
   "term": "32-bit",
-  "def": "  Processing modes referring to the size of each instruction processed by the CPU. 32-bit CPUs replaced earlier 16-bit CPUs and were used through the 1990s to the present day, though most PC and laptop CPUs now work in 64-bit mode."
+  "def": "Processing modes referring to the size of each instruction processed by the CPU. 32-bit CPUs replaced earlier 16-bit CPUs and were used through the 1990s to the present day, though most PC and laptop CPUs now work in 64-bit mode.",
+  "img": ""
  },
  {
-  "acronym": " 64-bit",
-  "term": " Processing modes referring to the size of each instruction processed by the CPU.  The main 64-bit platform is called AMD64 or EM64T (by Intel). Software can be compiled as 32-bit or 64-bit. 64-bit CPUs can run most 32-bit software, but a 32-bit CPU cannot execute 64-bit software. "
+  "acronym": "",
+  "term": "64-bit",
+  "def": "Processing modes referring to the size of each instruction processed by the CPU.  The main 64-bit platform is called AMD64 or EM64T (by Intel). Software can be compiled as 32-bit or 64-bit. 64-bit CPUs can run most 32-bit software, but a 32-bit CPU cannot execute 64-bit software. ",
+  "img": ""
  },
  {
-  "acronym": "3-D Printer",
-  "term": " Hardware device capable of small-scale manufacturing. Most 3-D printers use either a variety of filament (typically plastic) or resin media with different properties."
+  "acronym": "",
+  "term": "3-D Printer",
+  "def": "Hardware device capable of small-scale manufacturing. Most 3-D printers use either a variety of filament (typically plastic) or resin media with different properties.",
+  "img": ""
  },
  {
-  "acronym": "802.11 standards",
-  "term": " Specifications developed by IEEE for wireless networking over microwave radio transmission in the 2.4 GHz, 5 GHz, and 6 GHz frequency bands. The Wi-Fi standards brand has six main iterations: a, b, g, Wi-Fi 4 (n), Wi-Fi 5 (ac), and Wi-Fi 6 (ax). These specify different modulation techniques, supported distances, and data rates, plus special features, such as channel bonding, MIMO, and MU-MIMO."
+  "acronym": "",
+  "term": "802.11 standards",
+  "def": "Specifications developed by IEEE for wireless networking over microwave radio transmission in the 2.4 GHz, 5 GHz, and 6 GHz frequency bands. The Wi-Fi standards brand has six main iterations: a, b, g, Wi-Fi 4 (n), Wi-Fi 5 (ac), and Wi-Fi 6 (ax). These specify different modulation techniques, supported distances, and data rates, plus special features, such as channel bonding, MIMO, and MU-MIMO.",
+  "img": ""
  },
  {
-  "acronym": "802.11a",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11a",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.11b",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11b",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.11g",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11g",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.11n",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11n",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.11ac",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11ac",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.11ax",
-  "term": " TODO"
+  "acronym": "",
+  "term": "802.11ax",
+  "def": "TODO",
+  "img": ""
  },
  {
-  "acronym": "802.3 Ethernet",
-  "term": " Standards developed as the IEEE 802.3 series describing media types, access methods, data rates, and distance limitations at OSI layers 1 and 2 using xBASE-y designations."
+  "acronym": "",
+  "term": "802.3 Ethernet",
+  "def": "Standards developed as the IEEE 802.3 series describing media types, access methods, data rates, and distance limitations at OSI layers 1 and 2 using xBASE-y designations.",
+  "img": ""
  },
  {
   "acronym": "AP",
-  "term": " access point (AP) Device that provides a connection between wireless devices and can connect to wired networks, implementing an infrastructure mode WLAN."
+  "term": "access point (AP)",
+  "def": "Device that provides a connection between wireless devices and can connect to wired networks, implementing an infrastructure mode WLAN.",
+  "img": ""
  },
  {
-  "acronym": "adapter cable",
-  "term": " Peripheral cable converting between connector form factors or between signaling types, such as DisplayPort to HDMI."
+  "acronym": "",
+  "term": "adapter cable",
+  "def": "Peripheral cable converting between connector form factors or between signaling types, such as DisplayPort to HDMI.",
+  "img": ""
  },
  {
   "acronym": "AMD",
-  "term": " Advanced Micro Devices (AMD) CPU manufacturer providing healthy competition for Intel. AMD chips such as the K6 or Athlon 64 and latterly the Ryzen have been very popular with computer manufacturers and have often out-performed their Intel equivalents."
+  "term": "Advanced Micro Devices (AMD)",
+  "def": "CPU manufacturer providing healthy competition for Intel. AMD chips such as the K6 or Athlon 64 and latterly the Ryzen have been very popular with computer manufacturers and have often out-performed their Intel equivalents.",
+  "img": ""
  },
  {
   "acronym": "ARM",
-  "term": " Advanced RISC Machines (ARM) Designer of CPU and chipset architectures widely used in mobile devices. RISC stands for reduced instruction set computing. RISC microarchitectures use a small number of simple instructions that can be performed as a single operation. This contrasts with complex (CISC) microarchitectures, which use a large set of more powerful instructions that can take more than one operation to complete."
+  "term": "Advanced RISC Machines (ARM)",
+  "def": "Designer of CPU and chipset architectures widely used in mobile devices. RISC stands for reduced instruction set computing. RISC microarchitectures use a small number of simple instructions that can be performed as a single operation. This contrasts with complex (CISC) microarchitectures, which use a large set of more powerful instructions that can take more than one operation to complete.",
+  "img": ""
  },
  {
   "acronym": "ATX",
-  "term": " advanced technology extended (ATX) Standard PC case, motherboard, and power supply specification. Mini-, Micro-, and Flex-ATX specify smaller board designs."
+  "term": "advanced technology extended (ATX)",
+  "def": "Standard PC case, motherboard, and power supply specification. Mini-, Micro-, and Flex-ATX specify smaller board designs.",
+  "img": ""
  },
  {
-  "acronym": "airplane mode",
-  "term": " A toggle found on mobile devices enabling the user to disable and enable wireless functionality quickly."
+  "acronym": "",
+  "term": "airplane mode",
+  "def": "A toggle found on mobile devices enabling the user to disable and enable wireless functionality quickly.",
+  "img": ""
  },
  {
-  "acronym": "app store",
-  "term": " Feature of mobile computing that provides a managed interface for installing third-party software apps."
+  "acronym": "",
+  "term": "app store",
+  "def": "Feature of mobile computing that provides a managed interface for installing third-party software apps.",
+  "img": ""
  },
  {
   "acronym": "API",
-  "term": " application programming interface (API)  Library of programming utilities used, for example, to enable software developers to access functions of the TCP/IP network stack under a particular operating system."
+  "term": "application programming interface (API)",
+  "def": "Library of programming utilities used, for example, to enable software developers to access functions of the TCP/IP network stack under a particular operating system.",
+  "img": ""
  },
  {
-  "acronym": "application virtualization",
-  "term": " Software delivery model where the code runs on a server and is streamed to a client."
+  "acronym": "",
+  "term": "application virtualization",
+  "def": "Software delivery model where the code runs on a server and is streamed to a client.",
+  "img": ""
  },
  {
   "acronym": "AAA",
-  "term": "authentication, authorization, and accounting (AAA) Security concept where a centralized platform verifies subject identification, ensures the subject is assigned relevant permissions, and then logs these actions to create an audit trail."
+  "term": "authentication, authorization, and accounting (AAA)",
+  "def": "Security concept where a centralized platform verifies subject identification, ensures the subject is assigned relevant permissions, and then logs these actions to create an audit trail.",
+  "img": ""
  },
  {
   "acronym": "ADF",
-  "term": " automatic document feeder (ADF) Device that feeds media automatically into a scanner or printer."
+  "term": "automatic document feeder (ADF)",
+  "def": "Device that feeds media automatically into a scanner or printer.",
+  "img": ""
  },
  {
   "acronym": "APIPA",
-  "term": " automatic private IP addressing (APIPA) Mechanism for Windows hosts configured to obtain an address automatically that cannot contact a DHCP server to revert to using an address from the range 169.254.x.y. This is also called a link-local address."
+  "term": "automatic private IP addressing (APIPA)",
+  "def": "Mechanism for Windows hosts configured to obtain an address automatically that cannot contact a DHCP server to revert to using an address from the range 169.254.x.y. This is also called a link-local address.",
+  "img": ""
  },
  {
-  "acronym": "backlight",
-  "term": " LED or fluorescent lamp that illuminates the image on a flat-panel (TFT) screen. If the backlight component fails, only a dim image will be shown."
+  "acronym": "",
+  "term": "backlight",
+  "def": "LED or fluorescent lamp that illuminates the image on a flat-panel (TFT) screen. If the backlight component fails, only a dim image will be shown.",
+  "img": ""
  },
  {
-  "acronym": "BIOS basic input/output system (BIOS) Legacy 32-bit firmware type that initializes hardware and provides a system setup interface for configuring boot devices and other hardware settings."
+  "acronym": "BIOS basic input/output system (BIOS)",
+  "term": "Legacy 32-bit firmware type that initializes hardware and provides a system setup interface for configuring boot devices and other hardware settings.",
+  "def": ""
  },
  {
   "acronym": "BSSID",
-  "term": " basic service set ID (BSSID) MAC address of an access point supporting a basic service area."
+  "term": "basic service set ID (BSSID)",
+  "def": "MAC address of an access point supporting a basic service area.",
+  "img": ""
  },
  {
-  "acronym": "battery",
-  "term": " Power source for a portable computer, typically a rechargeable Lithium-ion (Li-ion) type. A small coin cell battery is also used in a computer to power CMOS RAM."
+  "acronym": "",
+  "term": "battery",
+  "def": "Power source for a portable computer, typically a rechargeable Lithium-ion (Li-ion) type. A small coin cell battery is also used in a computer to power CMOS RAM.",
+  "img": ""
  },
  {
-  "acronym": "beep codes",
-  "term": " During POST, errors in hardware or the system firmware data can be brought to the attention of the user by beep noises. Each beep code is able to draw attention to a particular fault with the hardware. It was once customary for a computer to beep once to indicate that POST has been successful, though most modern computers boot silently."
+  "acronym": "",
+  "term": "beep codes",
+  "def": "During POST, errors in hardware or the system firmware data can be brought to the attention of the user by beep noises. Each beep code is able to draw attention to a particular fault with the hardware. It was once customary for a computer to beep once to indicate that POST has been successful, though most modern computers boot silently.",
+  "img": ""
  },
  {
-  "acronym": "binary",
-  "term": " Notational system with two values per digit (zero and one). Computers process code in binary because the transistors in its CPU and memory components also have two states (off and on)."
+  "acronym": "",
+  "term": "binary",
+  "def": "Notational system with two values per digit (zero and one). Computers process code in binary because the transistors in its CPU and memory components also have two states (off and on).",
+  "img": ""
  },
  {
-  "acronym": "biometric authentication",
-  "term": " Authentication mechanism that allows a user to perform a biometric scan to operate an entry or access system. Physical characteristics stored as a digital data template can be used to authenticate a user. Typical features used include facial pattern, iris, retina, fingerprint pattern, and signature recognition."
+  "acronym": "",
+  "term": "biometric authentication",
+  "def": "Authentication mechanism that allows a user to perform a biometric scan to operate an entry or access system. Physical characteristics stored as a digital data template can be used to authenticate a user. Typical features used include facial pattern, iris, retina, fingerprint pattern, and signature recognition.",
+  "img": ""
  },
  {
   "acronym": "BSOD",
-  "term": " blue screen of death (BSOD)  Microsoft status screen that indicates an error from which the system cannot recover (also called a stop error). Blue screens are usually caused by bad driver software or hardware faults (memory or disk). Other operating systems use similar crash indicators, such as Apple's pinwheel and Linux's kernel panic message."
+  "term": "blue screen of death (BSOD)",
+  "def": "Microsoft status screen that indicates an error from which the system cannot recover (also called a stop error). Blue screens are usually caused by bad driver software or hardware faults (memory or disk). Other operating systems use similar crash indicators, such as Apple's pinwheel and Linux's kernel panic message.",
+  "img": ""
  },
  {
-  "acronym": "Bluetooth",
-  "term": " Short-range, wireless radio-network-transmission medium normally used to connect two personal devices, such as a mobile phone and a wireless headset."
+  "acronym": "",
+  "term": "Bluetooth",
+  "def": "Short-range, wireless radio-network-transmission medium normally used to connect two personal devices, such as a mobile phone and a wireless headset.",
+  "img": ""
  },
  {
-  "acronym": "Blu-ray Disc",
-  "term": " Latest generation of optical drive technology, with disc capacity of 25 GB per layer. Transfer rates are measured in multiples of 36 MB/s."
+  "acronym": "",
+  "term": "Blu-ray Disc",
+  "def": "Latest generation of optical drive technology, with disc capacity of 25 GB per layer. Transfer rates are measured in multiples of 36 MB/s.",
+  "img": ""
  },
  {
-  "acronym": "boot option",
-  "term": " Disk or network adapter device from which an operating system can be loaded."
+  "acronym": "",
+  "term": "boot option",
+  "def": "Disk or network adapter device from which an operating system can be loaded.",
+  "img": ""
  },
  {
-  "acronym": "boot password",
-  "term": " Feature of system setup that prevents the computer from booting until the correct user password is supplied. A supervisor password restricts access to the system setup program."
+  "acronym": "",
+  "term": "boot password",
+  "def": "Feature of system setup that prevents the computer from booting until the correct user password is supplied. A supervisor password restricts access to the system setup program.",
+  "img": ""
  },
  {
-  "acronym": "bus",
-  "term": " Connections between components on the motherboard and peripheral devices providing data pathways, memory addressing, power supply, timing, and connector/port form factor."
+  "acronym": "",
+  "term": "bus",
+  "def": "Connections between components on the motherboard and peripheral devices providing data pathways, memory addressing, power supply, timing, and connector/port form factor.",
+  "img": ""
  },
  {
-  "acronym": "cable modem",
-  "term": " Cable-Internet-access digital modem that uses a coaxial connection to the service provider's fiber-optic core network."
+  "acronym": "",
+  "term": "cable modem",
+  "def": "Cable-Internet-access digital modem that uses a coaxial connection to the service provider's fiber-optic core network.",
+  "img": ""
  },
  {
-  "acronym": "cable stripper",
-  "term": " Tool for stripping cable jacket or wire insulation."
+  "acronym": "",
+  "term": "cable stripper",
+  "def": "Tool for stripping cable jacket or wire insulation.",
+  "img": ""
  },
  {
-  "acronym": "cable tester",
-  "term": " Two-part tool used to test successful termination of copper cable by attaching to each end of a cable and energizing each wire conductor in turn with an LED to indicate an end-to-end connection."
+  "acronym": "",
+  "term": "cable tester",
+  "def": "Two-part tool used to test successful termination of copper cable by attaching to each end of a cable and energizing each wire conductor in turn with an LED to indicate an end-to-end connection.",
+  "img": ""
  },
  {
-  "acronym": "capture card",
-  "term": " Adapter card designed to record video from a source such as a TV tuner or games console."
+  "acronym": "",
+  "term": "capture card",
+  "def": "Adapter card designed to record video from a source such as a TV tuner or games console.",
+  "img": ""
  },
  {
-  "acronym": "carriage belt",
-  "term": " Inkjet print device component that moves the print head over the paper."
+  "acronym": "",
+  "term": "carriage belt",
+  "def": "Inkjet print device component that moves the print head over the paper.",
+  "img": ""
  },
  {
-  "acronym": "cellular radio",
-  "term": " Standards for implementing data access over cellular networks are implemented as successive generations. For 2G (up to about 48 Kb/s) and 3G (up to about 42 Mb/s), there are competing GSM and CDMA provider networks. Standards for 4G (up to about 90 Mb/s) and 5G (up to about 300 Mb/s) are developed under converged LTE standards."
+  "acronym": "",
+  "term": "cellular radio",
+  "def": "Standards for implementing data access over cellular networks are implemented as successive generations. For 2G (up to about 48 Kb/s) and 3G (up to about 42 Mb/s), there are competing GSM and CDMA provider networks. Standards for 4G (up to about 90 Mb/s) and 5G (up to about 300 Mb/s) are developed under converged LTE standards.",
+  "img": ""
  },
  {
   "acronym": "CPU",
-  "term": " central processing unit (CPU)  Principal microprocessor in a PC or mobile device responsible for running firmware, operating system, and applications software."
+  "term": "central processing unit (CPU)",
+  "def": "Principal microprocessor in a PC or mobile device responsible for running firmware, operating system, and applications software.",
+  "img": ""
  },
  {
   "acronym": "certificate",
-  "term": " Issued by a Certificate Authority (CA) as a guarantee that a public key it has issued to an organization to encrypt messages sent to it genuinely belongs to that organization."
+  "term": "Issued by a Certificate Authority (CA) as a guarantee that a public key it has issued to an organization to encrypt messages sent to it genuinely belongs to that 10organization.",
+  "def": ""
  },
  {
   "acronym": "CA",
-  "term": " certificate authority (CA)  Server that guarantees subject identities by issuing signed digital certificate wrappers for their public keys."
+  "term": "certificate authority (CA)",
+  "def": "Server that guarantees subject identities by issuing signed digital certificate wrappers for their public keys.",
+  "img": ""
  },
  {
-  "acronym": "channel",
-  "term": " Subdivision of frequency bands used by Wi-Fi products into smaller channels to allow multiple networks to operate at the same location without interfering with one another."
+  "acronym": "",
+  "term": "channel",
+  "def": "Subdivision of frequency bands used by Wi-Fi products into smaller channels to allow multiple networks to operate at the same location without interfering with one another.",
+  "img": ""
  },
  {
-  "acronym": "channel bonding",
-  "term": " Capability to aggregate one or more adjacent wireless channels to increase bandwidth."
+  "acronym": "",
+  "term": "channel bonding",
+  "def": "Capability to aggregate one or more adjacent wireless channels to increase bandwidth.",
+  "img": ""
  },
  {
-  "acronym": "chipset",
-  "term": " Processors embedded on a motherboard to support the operation of the CPU and implementing various controllers (for memory, graphics, I/O, and so on)."
+  "acronym": "",
+  "term": "chipset",
+  "def": "Processors embedded on a motherboard to support the operation of the CPU and implementing various controllers (for memory, graphics, I/O, and so on).",
+  "img": ""
  },
  {
-  "acronym": "clock",
-  "term": " System clock signal that synchronizes the operation of all of the components within a PC. It also provides the basic timing signal for the processor, bus, and memory. The CPU typically runs at many multiples of the basic clock speed."
+  "acronym": "",
+  "term": "clock",
+  "def": "System clock signal that synchronizes the operation of all of the components within a PC. It also provides the basic timing signal for the processor, bus, and memory. The CPU typically runs at many multiples of the basic clock speed.",
+  "img": ""
  },
  {
-  "acronym": "cloud computing",
-  "term": " Computing architecture where on-demand resources provisioned with the attributes of high availability, scalability, and elasticity are billed to customers on the basis of metered utilization."
+  "acronym": "",
+  "term": "cloud computing",
+  "def": "Computing architecture where on-demand resources provisioned with the attributes of high availability, scalability, and elasticity are billed to customers on the basis of metered utilization.",
+  "img": ""
  },
  {
-  "acronym": "cloud service model",
-  "term": " Classifying the provision of cloud services and the limit of the cloud service provider's responsibility as software, platform, infrastructure, and so on."
+  "acronym": "",
+  "term": "cloud service model",
+  "def": "Classifying the provision of cloud services and the limit of the cloud service provider's responsibility as software, platform, infrastructure, and so on.",
+  "img": ""
  },
  {
   "acronym": "CSP",
-  "term": " cloud service provider (CSP)  Organization providing infrastructure, application, and/or storage services via an \"as a service\" subscription-based, cloud-centric offering."
+  "term": "cloud service provider (CSP)",
+  "def": "Organization providing infrastructure, application, and/or storage services via an \"as a service\" subscription-based, cloud-centric offering.",
+  "img": ""
  },
  {
-  "acronym": "coaxial cable",
-  "term": " Media type using two separate conductors that share a common axis categorized using the Radio Grade (RG) specifications."
+  "acronym": "",
+  "term": "coaxial cable",
+  "def": "Media type using two separate conductors that share a common axis categorized using the Radio Grade (RG) specifications.",
+  "img": ""
  },
  {
   "acronym": "CDMA",
-  "term": " code division multiple access (CDMA)  Method of multiplexing a communications channel using a code to key the modulation of a particular signal. CDMA is associated with Sprint and Verizon cellular phone networks."
+  "term": "code division multiple access (CDMA)",
+  "def": "Method of multiplexing a communications channel using a code to key the modulation of a particular signal. CDMA is associated with Sprint and Verizon cellular phone networks.",
+  "img": ""
  },
  {
-  "acronym": "collision domain",
-  "term": " Network segment where nodes are attached to the same shared access media, such as a bus network or Ethernet hub."
+  "acronym": "",
+  "term": "collision domain",
+  "def": "Network segment where nodes are attached to the same shared access media, such as a bus network or Ethernet hub.",
+  "img": ""
  },
  {
-  "acronym": "community cloud",
-  "term": " Cloud that is deployed for shared use by cooperating tenants."
+  "acronym": "",
+  "term": "community cloud",
+  "def": "Cloud that is deployed for shared use by cooperating tenants.",
+  "img": ""
  },
  {
   "acronym": "CD",
-  "term": " Compact Disc (CD) ",
-  "def": " Optical storage technology supporting up to 700 MB per disc with recordable and re-writable media also available."
+  "term": "Compact Disc (CD)",
+  "def": "Optical storage technology supporting up to 700 MB per disc with recordable and re-writable media also available.",
+  "img": ""
  },
  {
-  "acronym": "containerization",
-  "term": " Type of virtualization applied by a host operating system to provision an isolated execution environment for an application. "
+  "acronym": "",
+  "term": "containerization",
+  "def": "Type of virtualization applied by a host operating system to provision an isolated execution environment for an application. ",
+  "img": ""
  },
  {
-  "acronym": "crimper",
-  "term": " Tool to join a Registered Jack (RJ) form factor connector to the ends of twisted-pair patch cable."
+  "acronym": "",
+  "term": "crimper",
+  "def": "Tool to join a Registered Jack (RJ) form factor connector to the ends of twisted-pair patch cable.",
+  "img": ""
  },
  {
   "acronym": "CMYK",
-  "term": " cyan, magenta, yellow, black (CMYK)  Subtractive color model used by print devices. CMYK printing involves use of halftone screens. Four screens (or layers) of dots printed in each of the colors are overlaid. The size and density of the dots on each layer produce different shades of color and is viewed as a continuous tone image."
+  "term": "cyan, magenta, yellow, black (CMYK)",
+  "def": "Subtractive color model used by print devices. CMYK printing involves use of halftone screens. Four screens (or layers) of dots printed in each of the colors are overlaid. The size and density of the dots on each layer produce different shades of color and is viewed as a continuous tone image.",
+  "img": ""
  },
  {
-  "acronym": "data cap",
-  "term": " Feature of mobile computing that allows use of a network connection to be limited to avoid incurring additional carrier charges."
+  "acronym": "",
+  "term": "data cap",
+  "def": "Feature of mobile computing that allows use of a network connection to be limited to avoid incurring additional carrier charges.",
+  "img": ""
  },
  {
   "acronym": "DLP",
-  "term": " data loss (leak) prevention (DLP)  Software solution that detects and prevents sensitive information from being stored on unauthorized systems or transmitted over unauthorized networks."
+  "term": "data loss (leak) prevention (DLP)",
+  "def": "Software solution that detects and prevents sensitive information from being stored on unauthorized systems or transmitted over unauthorized networks.",
+  "img": ""
  },
  {
-  "acronym": "datacenter",
-  "term": " Facility dedicated to the provisioning of reliable power, environmental controls, and network fabric to server computers."
+  "acronym": "",
+  "term": "datacenter",
+  "def": "Facility dedicated to the provisioning of reliable power, environmental controls, and network fabric to server computers.",
+  "img": ""
  },
  {
-  "acronym": "DDR SDRAM (Double Data Rate SDRAM)  Series of high-bandwidth system-memory standards (DDR3/DDR4/DDR5) where data is transferred twice per clock cycle."
+  "acronym": "DDR SDRAM (Double Data Rate SDRAM)",
+  "term": "Series of high-bandwidth system-memory standards (DDR3/DDR4/DDR5) where data is transferred twice per clock cycle.",
+  "def": ""
  },
  {
   "acronym": "dB",
-  "term": " decibel (dB) ",
-  "def": "Unit for representing the power of network signaling."
+  "term": "decibel (dB)",
+  "def": "Unit for representing the power of network signaling.",
+  "img": ""
  },
  {
   "acronym": "dBi",
-  "term": " decibels per isotropic (dBi)  Unit for representing the increase in power gained by the directional design of a wireless antenna."
+  "term": "decibels per isotropic (dBi)",
+  "def": "Unit for representing the increase in power gained by the directional design of a wireless antenna.",
+  "img": ""
  },
  {
-  "acronym": "default gateway",
-  "term": " IP configuration parameter that identifies the address of a router on the local subnet that the host can use to contact other networks."
+  "acronym": "",
+  "term": "default gateway",
+  "def": "IP configuration parameter that identifies the address of a router on the local subnet that the host can use to contact other networks.",
+  "img": ""
  },
  {
   "acronym": "DaaS",
-  "term": " desktop as a service (DaaS)  Cloud service model that provisions desktop OS and applications software."
+  "term": "desktop as a service (DaaS)",
+  "def": "Cloud service model that provisions desktop OS and applications software.",
+  "img": ""
  },
  {
-  "acronym": "digital camera",
-  "term": " Version of a 35 mm film camera where the film is replaced by light-sensitive diodes and electronic storage media (typically a flash memory card). The sensitivity of the array determines the maximum resolution of the image, measured in megapixels. Most mobile devices are fitted with embedded cameras that can function as both still and video cameras."
+  "acronym": "",
+  "term": "digital camera",
+  "def": "Version of a 35 mm film camera where the film is replaced by light-sensitive diodes and electronic storage media (typically a flash memory card). The sensitivity of the array determines the maximum resolution of the image, measured in megapixels. Most mobile devices are fitted with embedded cameras that can function as both still and video cameras.",
+  "img": ""
  },
  {
   "acronym": "DSL",
-  "term": " digital subscriber line (DSL)  Carrier technology to implement broadband Internet access for subscribers by transferring data over voice-grade telephone lines. There are various \"flavors\" of DSL, notably S(ymmetric)DSL, A(symmetric)DSL, and V(ery HIgh Bit Rate)DSL."
+  "term": "digital subscriber line (DSL)",
+  "def": "Carrier technology to implement broadband Internet access for subscribers by transferring data over voice-grade telephone lines. There are various \"flavors\" of DSL, notably S(ymmetric)DSL, A(symmetric)DSL, and V(ery HIgh Bit Rate)DSL.",
+  "img": ""
  },
  {
   "acronym": "DVI",
-  "term": " Digital Video Interface (DVI)  Legacy video interface that supports digital only or digital and analog signaling."
+  "term": "Digital Video Interface (DVI)",
+  "def": "Legacy video interface that supports digital only or digital and analog signaling.",
+  "img": ""
  },
  {
   "acronym": "DVD",
-  "term": " Digital Video/Versatile Disk (DVD)  Optical storage technology supporting up to 4.7 GB per layer per disc with recordable and re-writable media also available."
+  "term": "Digital Video/Versatile Disk (DVD)",
+  "def": "Optical storage technology supporting up to 4.7 GB per layer per disc with recordable and re-writable media also available.",
+  "img": ""
  },
  {
-  "acronym": "digitizer",
-  "term": " As part of a touch screen assembly, the digitizer is a touch-sensitive layer placed on top of the display panel. The digitizer converts analog touch and gesture events to digital signals that can be interpreted as different types of input."
+  "acronym": "",
+  "term": "digitizer",
+  "def": "As part of a touch screen assembly, the digitizer is a touch-sensitive layer placed on top of the display panel. The digitizer converts analog touch and gesture events to digital signals that can be interpreted as different types of input.",
+  "img": ""
  },
  {
-  "acronym": "direct burial",
-  "term": " A type of outside plant (OSP) installation where cable is laid directly into the ground with no protective conduit."
+  "acronym": "",
+  "term": "direct burial",
+  "def": "A type of outside plant (OSP) installation where cable is laid directly into the ground with no protective conduit.",
+  "img": ""
  },
  {
-  "acronym": "DisplayPort",
-  "term": " Digital audio/video interface developed by VESA. DisplayPort supports some cross-compatibility with DVI and HDMI devices."
+  "acronym": "",
+  "term": "DisplayPort",
+  "def": "Digital audio/video interface developed by VESA. DisplayPort supports some cross-compatibility with DVI and HDMI devices.",
+  "img": ""
  },
  {
-  "acronym": "docking station",
-  "term": " Advanced type of port replicator designed to provide additional ports (such as network or USB) and functionality (such as expansion slots and drives) to a portable computer when used at a desk."
+  "acronym": "",
+  "term": "docking station",
+  "def": "Advanced type of port replicator designed to provide additional ports (such as network or USB) and functionality (such as expansion slots and drives) to a portable computer when used at a desk.",
+  "img": ""
  },
  {
   "acronym": "DNS",
-  "term": " domain name system (DNS)  Service that maps fully qualified domain name labels to IP addresses on most TCP/IP networks, including the Internet."
+  "term": "domain name system (DNS)",
+  "def": "Service that maps fully qualified domain name labels to IP addresses on most TCP/IP networks, including the Internet.",
+  "img": ""
  },
  {
   "acronym": "DMARC",
-  "term": " Domain-Based Message Authentication, Reporting, and Conformance (DMARC)  Framework for ensuring proper application of SPF and DKIM utilizing a policy published as a DNS record."
+  "term": "Domain-Based Message Authentication, Reporting, and Conformance (DMARC)",
+  "def": "Framework for ensuring proper application of SPF and DKIM utilizing a policy published as a DNS record.",
+  "img": ""
  },
  {
   "acronym": "DKIM",
-  "term": " DomainKeys Identified Mail (DKIM)  Cryptographic authentication mechanism for mail utilizing a public key published as a DNS record."
+  "term": "DomainKeys Identified Mail (DKIM)",
+  "def": "Cryptographic authentication mechanism for mail utilizing a public key published as a DNS record.",
+  "img": ""
  },
  {
   "acronym": "DB-9",
-  "term": " D-subminiature shell connector (DB-9)  Legacy connector form factor used for serial (9-pin) and VGA (15-pin) interfaces."
+  "term": "D-subminiature shell connector (DB-9)",
+  "def": "Legacy connector form factor used for serial (9-pin) and VGA (15-pin) interfaces.",
+  "img": ""
  },
  {
   "acronym": "DIMM",
-  "term": " dual inline memory module (DIMM)  Standard form factor for system memory. There are different pin configurations for different DDR-SDRAM RAM types. "
+  "term": "dual inline memory module (DIMM)",
+  "def": "Standard form factor for system memory. There are different pin configurations for different DDR-SDRAM RAM types. ",
+  "img": ""
  },
  {
-  "acronym": "dual-channel",
-  "term": " System-memory controller configuration that provides two data pathways between the memory modules and a compatible CPU."
+  "acronym": "",
+  "term": "dual-channel",
+  "def": "System-memory controller configuration that provides two data pathways between the memory modules and a compatible CPU.",
+  "img": ""
  },
  {
-  "acronym": "duplex unit",
-  "term": " Installable option that enables a print device or scanner to use both sides of a page automatically."
+  "acronym": "",
+  "term": "duplex unit",
+  "def": "Installable option that enables a print device or scanner to use both sides of a page automatically.",
+  "img": ""
  },
  {
   "acronym": "DFS",
-  "term": " dynamic frequency selection (DFS)  Regulatory feature of wireless access points that prevents use of certain 5 GHz channels when in range of a facility that uses radar."
+  "term": "dynamic frequency selection (DFS)",
+  "def": "Regulatory feature of wireless access points that prevents use of certain 5 GHz channels when in range of a facility that uses radar.",
+  "img": ""
  },
  {
   "acronym": "DHCP",
-  "term": " dynamic host configuration protocol (DHCP)  Protocol used to automatically assign IP addressing information to hosts that have not been configured manually."
+  "term": "dynamic host configuration protocol (DHCP)",
+  "def": "Protocol used to automatically assign IP addressing information to hosts that have not been configured manually.",
+  "img": ""
  },
  {
   "acronym": "EIRP",
-  "term": " effective isotropic radiated power (EIRP)  Signal strength from a transmitter, measured as the sum of transmit power, antenna cable/connector loss, and antenna gain."
+  "term": "effective isotropic radiated power (EIRP)",
+  "def": "Signal strength from a transmitter, measured as the sum of transmit power, antenna cable/connector loss, and antenna gain.",
+  "img": ""
  },
  {
-  "acronym": "elasticity",
-  "term": " Property by which a computing environment can add or remove resources in response to increasing and decreasing demands in workload. "
+  "acronym": "",
+  "term": "elasticity",
+  "def": "Property by which a computing environment can add or remove resources in response to increasing and decreasing demands in workload. ",
+  "img": ""
  },
  {
   "acronym": "ESD",
-  "term": " electrostatic discharge (ESD)  Metal and plastic surfaces can allow a charge to build up. This can discharge if a potential difference is formed between the charged object and an oppositely charged conductive object. This electrical discharge can damage silicon chips and computer components if they are exposed to it."
+  "term": "electrostatic discharge (ESD)",
+  "def": "Metal and plastic surfaces can allow a charge to build up. This can discharge if a potential difference is formed between the charged object and an oppositely charged conductive object. This electrical discharge can damage silicon chips and computer components if they are exposed to it.",
+  "img": ""
  },
  {
-  "acronym": "email",
-  "term": " Electronic store and forward messaging system. Email supports text messages and binary file attachments. For Internet email, an SMTP (Simple Mail Transfer Protocol) server is used to forward mail to a host. A mail client then uses either POP3 (Post Office Protocol) or IMAP (Internet Mail Access Protocol) to access the mailbox on the server and download messages."
+  "acronym": "",
+  "term": "email",
+  "def": "Electronic store and forward messaging system. Email supports text messages and binary file attachments. For Internet email, an SMTP (Simple Mail Transfer Protocol) server is used to forward mail to a host. A mail client then uses either POP3 (Post Office Protocol) or IMAP (Internet Mail Access Protocol) to access the mailbox on the server and download messages.",
+  "img": ""
  },
  {
-  "acronym": "embedded system",
-  "term": " Electronic system that is designed to perform a specific, dedicated function, such as a microcontroller in a medical drip or components in a control system managing a water treatment plant."
+  "acronym": "",
+  "term": "embedded system",
+  "def": "Electronic system that is designed to perform a specific, dedicated function, such as a microcontroller in a medical drip or components in a control system managing a water treatment plant.",
+  "img": ""
  },
  {
-  "acronym": "enclosure",
-  "term": " Chassis for connecting an internal disk unit as an external peripheral device."
+  "acronym": "",
+  "term": "enclosure",
+  "def": "Chassis for connecting an internal disk unit as an external peripheral device.",
+  "img": ""
  },
  {
   "acronym": "EOL",
-  "term": " end of life (EOL)  Product life cycle phase where mainstream vendor support is no longer available."
+  "term": "end of life (EOL)",
+  "def": "Product life cycle phase where mainstream vendor support is no longer available.",
+  "img": ""
  },
  {
   "acronym": "ECC",
-  "term": " error correction code (ECC)  System memory (RAM) with built-in error correction security. It is more expensive than normal memory and requires motherboard support. It is typically only used in servers."
+  "term": "error correction code (ECC)",
+  "def": "System memory (RAM) with built-in error correction security. It is more expensive than normal memory and requires motherboard support. It is typically only used in servers.",
+  "img": ""
  },
  {
-  "acronym": "escalation",
-  "term": " In the context of support procedures, incident response, and breach-reporting, escalation is the process of involving expert and senior staff to assist in problem management."
+  "acronym": "",
+  "term": "escalation",
+  "def": "In the context of support procedures, incident response, and breach-reporting, escalation is the process of involving expert and senior staff to assist in problem management.",
+  "img": ""
  },
  {
   "acronym": "eSATA",
-  "term": " external serial advanced technology attachment (eSATA)  Variant of SATA cabling designed for external connectivity."
+  "term": "external serial advanced technology attachment (eSATA)",
+  "def": "Variant of SATA cabling designed for external connectivity.",
+  "img": ""
  },
  {
-  "acronym": "fan",
-  "term": " Cooling device fitted to PC cases and components to improve air flow."
+  "acronym": "",
+  "term": "fan",
+  "def": "Cooling device fitted to PC cases and components to improve air flow.",
+  "img": ""
  },
  {
-  "acronym": "fiber optic cable",
-  "term": " Network cable type that uses light signals as the basis for data transmission. Infrared light pulses are transmitted down the glass core of the fiber. The cladding that surrounds this core reflects light back to ensure transmission efficiency. Two main categories of fiber are available",
-  "def": " multi-mode, which uses cheaper, shorter wavelength LEDs or VCSEL diodes, or single-mode, which uses more expensive, longer wavelength laser diodes. At the receiving end of the cable, light-sensitive diodes re-convert the light pulse into an electrical signal. Fiber optic cable is immune to eavesdropping and EMI, has low attenuation, supports rates of 10 Gb/s+, and is light and compact."
+  "acronym": "",
+  "term": "fiber optic cable",
+  "def": "Network cable type that uses light signals as the basis for data transmission. Infrared light pulses are transmitted down the glass core of the fiber. The cladding that surrounds this core reflects light back to ensure transmission efficiency. Two main categories of fiber are available",
+  "img": "multi-mode, which uses cheaper, shorter wavelength LEDs or VCSEL diodes, or single-mode, which uses more expensive, longer wavelength laser diodes. At the receiving end of the cable, light-sensitive diodes re-convert the light pulse into an electrical signal. Fiber optic cable is immune to eavesdropping and EMI, has low attenuation, supports rates of 10 Gb/s+, and is light and compact."
  },
  {
   "acronym": "FTTP",
-  "term": " fiber to premise (FTTP)  Internet connection type that uses a fiber link between the subscriber premises and ISP network. Fiber to the premises (FTTP) uses a full fiber link, while fiber to the curb (FTTC) retains a short segment of copper wire between the subscriber premises and a street cabinet."
+  "term": "fiber to premise (FTTP)",
+  "def": "Internet connection type that uses a fiber link between the subscriber premises and ISP network. Fiber to the premises (FTTP) uses a full fiber link, while fiber to the curb (FTTC) retains a short segment of copper wire between the subscriber premises and a street cabinet.",
+  "img": ""
  },
  {
-  "acronym": "filament",
-  "term": " 3-D print device media type."
+  "acronym": "",
+  "term": "filament",
+  "def": "3-D print device media type.",
+  "img": ""
  },
  {
-  "acronym": "file server",
-  "term": " In file server-based networks, a central machine provides dedicated file and print services to workstations. Benefits of server-based networks include ease of administration through centralization."
+  "acronym": "",
+  "term": "file server",
+  "def": "In file server-based networks, a central machine provides dedicated file and print services to workstations. Benefits of server-based networks include ease of administration through centralization.",
+  "img": ""
  },
  {
   "acronym": "FTP",
-  "term": " file transfer protocol (FTP)  Application protocol used to transfer files between network hosts. Variants include S(ecure)FTP, FTP with SSL (FTPS and FTPES) and T(rivial)FTP. FTP utilizes ports 20 and 21."
+  "term": "file transfer protocol (FTP)",
+  "def": "Application protocol used to transfer files between network hosts. Variants include S(ecure)FTP, FTP with SSL (FTPS and FTPES) and T(rivial)FTP. FTP utilizes ports 20 and 21.",
+  "img": ""
  },
  {
-  "acronym": "finisher unit",
-  "term": " Print device component used to automate document production, such as hole punching or stapling print jobs."
+  "acronym": "",
+  "term": "finisher unit",
+  "def": "Print device component used to automate document production, such as hole punching or stapling print jobs.",
+  "img": ""
  },
  {
-  "acronym": "firewall",
-  "term": " Software or hardware device that protects a network segment or individual host by filtering packets to an access control list."
+  "acronym": "",
+  "term": "firewall",
+  "def": "Software or hardware device that protects a network segment or individual host by filtering packets to an access control list.",
+  "img": ""
  },
  {
-  "acronym": "firmware",
-  "term": " Software instructions embedded on a hardware device such as a computer motherboard. Modern types of firmware are stored in flash memory and can be updated more easily than legacy programmable read-only memory (ROM) types."
+  "acronym": "",
+  "term": "firmware",
+  "def": "Software instructions embedded on a hardware device such as a computer motherboard. Modern types of firmware are stored in flash memory and can be updated more easily than legacy programmable read-only memory (ROM) types.",
+  "img": ""
  },
  {
-  "acronym": "flash drive",
-  "term": " Solid state flash memory provisioned as a peripheral device with a USB interface."
+  "acronym": "",
+  "term": "flash drive",
+  "def": "Solid state flash memory provisioned as a peripheral device with a USB interface.",
+  "img": ""
  },
  {
-  "acronym": "flatbed scanner",
-  "term": " Type of scanner where the object is placed on a glass faceplate and the scan head moves underneath it."
+  "acronym": "",
+  "term": "flatbed scanner",
+  "def": "Type of scanner where the object is placed on a glass faceplate and the scan head moves underneath it.",
+  "img": ""
  },
  {
-  "acronym": "form factor",
-  "term": " Size and shape of a component, determining its compatibility. Form factor is most closely associated with PC motherboard, case, and power supply designs."
+  "acronym": "",
+  "term": "form factor",
+  "def": "Size and shape of a component, determining its compatibility. Form factor is most closely associated with PC motherboard, case, and power supply designs.",
+  "img": ""
  },
  {
-  "acronym": "frequency bands",
-  "term": " Portion of the microwave radio-frequency spectrum in which wireless products operate, such as 2.4 GHz band or 5 GHz band."
+  "acronym": "",
+  "term": "frequency bands",
+  "def": "Portion of the microwave radio-frequency spectrum in which wireless products operate, such as 2.4 GHz band or 5 GHz band.",
+  "img": ""
  },
  {
-  "acronym": "F-type connector",
-  "term": " Screw down connector used with coaxial cable."
+  "acronym": "",
+  "term": "F-type connector",
+  "def": "Screw down connector used with coaxial cable.",
+  "img": ""
  },
  {
   "acronym": "FQDN",
-  "term": " fully qualified domain name (FQDN)  Unique label specified in a DNS hierarchy to identify a particular host within a subdomain within a top-level domain."
+  "term": "fully qualified domain name (FQDN)",
+  "def": "Unique label specified in a DNS hierarchy to identify a particular host within a subdomain within a top-level domain.",
+  "img": ""
  },
  {
-  "acronym": "fuser",
-  "term": " Assembly in a laser print device that fixes toner to media. This is typically a combination of a heat and pressure roller."
+  "acronym": "",
+  "term": "fuser",
+  "def": "Assembly in a laser print device that fixes toner to media. This is typically a combination of a heat and pressure roller.",
+  "img": ""
  },
  {
   "acronym": "GPS",
-  "term": " Global Positioning System (GPS)  Means of determining a receiver's position on Earth based on information received from orbital satellites."
+  "term": "Global Positioning System (GPS)",
+  "def": "Means of determining a receiver's position on Earth based on information received from orbital satellites.",
+  "img": ""
  },
  {
   "acronym": "GSM",
-  "term": " Global System for Mobile Communication (GSM)  Standard for cellular radio communications and data transfer. GSM phones use a SIM card to identify the subscriber and network provider. 4G and later data standards are developed for GSM."
+  "term": "Global System for Mobile Communication (GSM)",
+  "def": "Standard for cellular radio communications and data transfer. GSM phones use a SIM card to identify the subscriber and network provider. 4G and later data standards are developed for GSM.",
+  "img": ""
  },
  {
-  "acronym": "Google Workspace",
-  "term": " Mobile/cloud computing office productivity and data storage suite operated by Google."
+  "acronym": "",
+  "term": "Google Workspace",
+  "def": "Mobile/cloud computing office productivity and data storage suite operated by Google.",
+  "img": ""
  },
  {
   "acronym": "HDD",
-  "term": " hard disk drive (HDD)  Mass storage device that uses mechanical platters with a magnetic coating that are spun under disk heads that can read and write to locations on each platter (sectors)."
+  "term": "hard disk drive (HDD)",
+  "def": "Mass storage device that uses mechanical platters with a magnetic coating that are spun under disk heads that can read and write to locations on each platter (sectors).",
+  "img": ""
  },
  {
   "acronym": "HSM",
-  "term": " hardware security module (HSM)  An appliance for generating and storing cryptographic keys. This sort of solution may be less susceptible to tampering and insider threats than software-based storage."
+  "term": "hardware security module (HSM)",
+  "def": "An appliance for generating and storing cryptographic keys. This sort of solution may be less susceptible to tampering and insider threats than software-based storage.",
+  "img": ""
  },
  {
-  "acronym": "header (motherboard)",
-  "term": " Connector on the motherboard for internal cabling, such as fan power and front panel ports and buttons."
+  "acronym": "",
+  "term": "header (motherboard)",
+  "def": "Connector on the motherboard for internal cabling, such as fan power and front panel ports and buttons.",
+  "img": ""
  },
  {
-  "acronym": "headset",
-  "term": " Peripheral device supporting audio input (microphone) and output (speaker headphones)."
+  "acronym": "",
+  "term": "headset",
+  "def": "Peripheral device supporting audio input (microphone) and output (speaker headphones).",
+  "img": ""
  },
  {
-  "acronym": "heat sink",
-  "term": " Cooling device fitted to PC components to optimize heat transfer."
+  "acronym": "",
+  "term": "heat sink",
+  "def": "Cooling device fitted to PC components to optimize heat transfer.",
+  "img": ""
  },
  {
   "acronym": "HA",
-  "term": " high availability (HA)  Metric that defines how closely systems approach the goal of providing data availability 100% of the time while maintaining a high level of system performance."
+  "term": "high availability (HA)",
+  "def": "Metric that defines how closely systems approach the goal of providing data availability 100% of the time while maintaining a high level of system performance.",
+  "img": ""
  },
  {
   "acronym": "HDMI",
-  "term": " High-Definition Multimedia Interface (HDMI)  Digital audio/video interface developed for use on both consumer electronics and computer equipment."
+  "term": "High-Definition Multimedia Interface (HDMI)",
+  "def": "Digital audio/video interface developed for use on both consumer electronics and computer equipment.",
+  "img": ""
  },
  {
-  "acronym": "hostname",
-  "term": " A human-readable name that identifies a network host."
+  "acronym": "",
+  "term": "hostname",
+  "def": "A human-readable name that identifies a network host.",
+  "img": ""
  },
  {
-  "acronym": "hotspot",
-  "term": " Using the cellular data plan of a mobile device to provide Internet access to a laptop or PC. The PC can be tethered to the mobile by USB, Bluetooth, or Wi-Fi (a mobile hotspot)."
+  "acronym": "",
+  "term": "hotspot",
+  "def": "Using the cellular data plan of a mobile device to provide Internet access to a laptop or PC. The PC can be tethered to the mobile by USB, Bluetooth, or Wi-Fi (a mobile hotspot).",
+  "img": ""
  },
  {
-  "acronym": "hub",
-  "term": " Layer 1 (Physical) network device used to implement a star network topology on legacy Ethernet networks, working as a multiport repeater."
+  "acronym": "",
+  "term": "hub",
+  "def": "Layer 1 (Physical) network device used to implement a star network topology on legacy Ethernet networks, working as a multiport repeater.",
+  "img": ""
  },
  {
-  "acronym": "hybrid cloud",
-  "term": " Cloud deployment that uses both private and public elements."
+  "acronym": "",
+  "term": "hybrid cloud",
+  "def": "Cloud deployment that uses both private and public elements.",
+  "img": ""
  },
  {
   "acronym": "HTTP",
-  "term": " HyperText Transfer Protocol/HTTP Secure Application protocol used to provide web content to browsers. HTTP uses port 80. HTTPS(ecure) provides for encrypted transfers, using TLS and port 443."
+  "term": "HyperText Transfer Protocol/HTTP",
+  "def": "Secure Application protocol used to provide web content to browsers. HTTP uses port 80. HTTPS(ecure) provides for encrypted transfers, using TLS and port 443.",
+  "img": ""
  },
  {
-  "acronym": "iCloud",
-  "term": " Mobile/cloud computing office-productivity and data-storage suite operated by Apple and closely integrated with macOS and iOS. "
+  "acronym": "",
+  "term": "iCloud",
+  "def": "Mobile/cloud computing office-productivity and data-storage suite operated by Apple and closely integrated with macOS and iOS. ",
+  "img": ""
  },
  {
-  "acronym": "image",
-  "term": " Clone copy of an operating system installation (including installed software, settings, and user data) stored as a file on disk. VMs use images to store persistent data, and the technology is also used to make system backups."
+  "acronym": "",
+  "term": "image",
+  "def": "Clone copy of an operating system installation (including installed software, settings, and user data) stored as a file on disk. VMs use images to store persistent data, and the technology is also used to make system backups.",
+  "img": ""
  },
  {
-  "acronym": "imaging drum",
-  "term": " Drum or belt in a laser printer that supports a high electric charge that can be selectively removed using a laser or LED light source."
+  "acronym": "",
+  "term": "imaging drum",
+  "def": "Drum or belt in a laser printer that supports a high electric charge that can be selectively removed using a laser or LED light source.",
+  "img": ""
  },
  {
-  "acronym": "impact printer",
-  "term": " Typically a dot matrix printer, this uses pressure to transfer ink from a ribbon onto paper in a particular pattern, similar to the mechanism of a typewriter."
+  "acronym": "",
+  "term": "impact printer",
+  "def": "Typically a dot matrix printer, this uses pressure to transfer ink from a ribbon onto paper in a particular pattern, similar to the mechanism of a typewriter.",
+  "img": ""
  },
  {
   "acronym": "IPS",
-  "term": " indoor positioning system (IPS)  Technology that can derive a device's location when indoors by triangulating its proximity to radio sources such as Bluetooth beacons or Wi-Fi access points."
+  "term": "indoor positioning system (IPS)",
+  "def": "Technology that can derive a device's location when indoors by triangulating its proximity to radio sources such as Bluetooth beacons or Wi-Fi access points.",
+  "img": ""
  },
  {
   "acronym": "ITX",
-  "term": " information technology extended (ITX)  Series of motherboard form factors designed for small form factor (SFF) computers and appliances."
+  "term": "information technology extended (ITX)",
+  "def": "Series of motherboard form factors designed for small form factor (SFF) computers and appliances.",
+  "img": ""
  },
  {
   "acronym": "IaaS",
-  "term": " infrastructure as a service (IaaS)  Cloud service model that provisions virtual machines and network infrastructure."
+  "term": "infrastructure as a service (IaaS)",
+  "def": "Cloud service model that provisions virtual machines and network infrastructure.",
+  "img": ""
  },
  {
-  "acronym": "injector",
-  "term": " A device that can supply Power over Ethernet (PoE) if the Ethernet switch ports do not support it."
+  "acronym": "",
+  "term": "injector",
+  "def": "A device that can supply Power over Ethernet (PoE) if the Ethernet switch ports do not support it.",
+  "img": ""
  },
  {
-  "acronym": "inkjet printer",
-  "term": " Type of printer where colored ink is sprayed onto the paper using microscopic nozzles in the print head. There are two main types of ink dispersion system: thermal shock (heating the ink to form a bubble that bursts through the nozzles) and piezoelectric (using a tiny element that changes shape to act as a pump)."
+  "acronym": "",
+  "term": "inkjet printer",
+  "def": "Type of printer where colored ink is sprayed onto the paper using microscopic nozzles in the print head. There are two main types of ink dispersion system: thermal shock (heating the ink to form a bubble that bursts through the nozzles) and piezoelectric (using a tiny element that changes shape to act as a pump).",
+  "img": ""
  },
  {
-  "acronym": "in-plane switching",
-  "term": " Type of TFT display with the best overall quality, including wide viewing angles, good contrast ratio, and good response times (on premium units)."
+  "acronym": "",
+  "term": "in-plane switching",
+  "def": "Type of TFT display with the best overall quality, including wide viewing angles, good contrast ratio, and good response times (on premium units).",
+  "img": ""
  },
  {
-  "acronym": "input voltage",
-  "term": " Range of alternating current (AC) voltages that a PSU can accept when connected to grid power. Some PSUs are manually switched between low-line 110-120 VAC and high-line 220-240 VAC."
+  "acronym": "",
+  "term": "input voltage",
+  "def": "Range of alternating current (AC) voltages that a PSU can accept when connected to grid power. Some PSUs are manually switched between low-line 110-120 VAC and high-line 220-240 VAC.",
+  "img": ""
  },
  {
   "acronym": "IOPS",
-  "term": " input/output operations per second (IOPS)  Performance indicator that measures the time taken to complete read/write operations."
+  "term": "input/output operations per second (IOPS)",
+  "def": "Performance indicator that measures the time taken to complete read/write operations.",
+  "img": ""
  },
  {
   "acronym": "IDC",
-  "term": " insulation displacement connector (IDC)  Block used to terminate twisted pair cabling at a wall plate or patch panel available in different formats, such as 110, BIX, and Krone."
+  "term": "insulation displacement connector (IDC)",
+  "def": "Block used to terminate twisted pair cabling at a wall plate or patch panel available in different formats, such as 110, BIX, and Krone.",
+  "img": ""
  },
  {
   "acronym": "IDE",
-  "term": " integrated drive electronics (IDE)  Legacy mass storage bus, most commonly implemented as extended IDE (EIDE) and also referred to as parallel advanced technology attachment (PATA). Each IDE controller port supports two devices connected over ribbon cable with three connectors (controller, primary device, and secondary device)."
+  "term": "integrated drive electronics (IDE)",
+  "def": "Legacy mass storage bus, most commonly implemented as extended IDE (EIDE) and also referred to as parallel advanced technology attachment (PATA). Each IDE controller port supports two devices connected over ribbon cable with three connectors (controller, primary device, and secondary device).",
+  "img": "8403-1677002167701.png"
  },
  {
-  "acronym": "Intel",
-  "term": " Intel processors were used in the first IBM PCs, and the company's CPUs and chipsets continue to dominate the PC and laptop market."
+  "acronym": "",
+  "term": "Intel",
+  "def": "Intel processors were used in the first IBM PCs, and the company's CPUs and chipsets continue to dominate the PC and laptop market.",
+  "img": ""
  },
  {
   "acronym": "IMAP",
-  "term": " Internet Message Access Protocol (IMAP)  Application protocol providing a means for a client to access and manage email messages stored in a mailbox on a remote server. IMAP4 utilizes TCP port number 143, while the secure version IMAPS uses TCP/993."
+  "term": "Internet Message Access Protocol (IMAP)",
+  "def": "Application protocol providing a means for a client to access and manage email messages stored in a mailbox on a remote server. IMAP4 utilizes TCP port number 143, while the secure version IMAPS uses TCP/993.",
+  "img": ""
  },
  {
   "acronym": "IoT",
-  "term": " Internet of Things (IoT)  Devices that can report state and configuration data and be remotely managed over IP networks."
+  "term": "Internet of Things (IoT)",
+  "def": "Devices that can report state and configuration data and be remotely managed over IP networks.",
+  "img": ""
  },
  {
   "acronym": "IP",
-  "term": " Internet Protocol (IP)  Network (Internet) layer protocol in the TCP/IP suite providing packet addressing and routing for all higher-level protocols in the suite."
+  "term": "Internet Protocol (IP)",
+  "def": "Network (Internet) layer protocol in the TCP/IP suite providing packet addressing and routing for all higher-level protocols in the suite.",
+  "img": ""
  },
  {
   "acronym": "ISP",
-  "term": " Internet Service Provider (ISP)  Provides Internet connectivity and web services to its customers."
+  "term": "Internet Service Provider (ISP)",
+  "def": "Provides Internet connectivity and web services to its customers.",
+  "img": ""
  },
  {
   "acronym": "IDS",
-  "term": " intrusion detection system (IDS)  Security appliance or software that analyzes data from a packet sniffer to identify traffic that violates policies or rules."
+  "term": "intrusion detection system (IDS)",
+  "def": "Security appliance or software that analyzes data from a packet sniffer to identify traffic that violates policies or rules.",
+  "img": ""
  },
  {
-  "acronym": "inverter",
-  "term": " Fluorescent lamp backlights require AC power. An inverter component converts DC power from the motherboard to AC. The inverter can fail separately to the backlight."
+  "acronym": "",
+  "term": "inverter",
+  "def": "Fluorescent lamp backlights require AC power. An inverter component converts DC power from the motherboard to AC. The inverter can fail separately to the backlight.",
+  "img": ""
  },
  {
-  "acronym": "IPv4",
-  "term": " Version of the Internet Protocol that uses 32-bit address values and subnet masks typically expressed in dotted decimal notation."
+  "acronym": "",
+  "term": "IPv4",
+  "def": "Version of the Internet Protocol that uses 32-bit address values and subnet masks typically expressed in dotted decimal notation.",
+  "img": ""
  },
  {
-  "acronym": "IPv6",
-  "term": " Version of the Internet Protocol that uses 64-bit address values typically expressed in canonical hex notation with slash notation network prefixes."
+  "acronym": "",
+  "term": "IPv6",
+  "def": "Version of the Internet Protocol that uses 64-bit address values typically expressed in canonical hex notation with slash notation network prefixes.",
+  "img": ""
  },
  {
-  "acronym": "jitter",
-  "term": " Variation in the time it takes for a signal to reach the recipient. Jitter manifests itself as an inconsistent rate of packet delivery. If packet loss or delay is&nbsp",
-  "def": "excessive, then noticeable audio or video problems (artifacts) are experienced by users."
+  "acronym": "",
+  "term": "jitter",
+  "def": "Variation in the time it takes for a signal to reach the recipient. Jitter manifests itself as an inconsistent rate of packet delivery. If packet loss or delay is&nbsp",
+  "img": "excessive, then noticeable audio or video problems (artifacts) are experienced by users."
  },
  {
   "acronym": "LGA",
-  "term": " land grid array (LGA) CPU socket form factor used predominantly by Intel where connector pins are located on the socket."
+  "term": "land grid array (LGA)",
+  "def": "CPU socket form factor used predominantly by Intel where connector pins are located on the socket.",
+  "img": ""
  },
  {
-  "acronym": "laser printer",
-  "term": " Type of printer that develops an image on a drum by using electrical charges to attract special toner, then applying it to paper. The toner is then fixed to the paper using a high-heat and pressure roller (fuser). The process can be used with black toner only or CMYK toner cartridges to create full-color prints."
+  "acronym": "",
+  "term": "laser printer",
+  "def": "Type of printer that develops an image on a drum by using electrical charges to attract special toner, then applying it to paper. The toner is then fixed to the paper using a high-heat and pressure roller (fuser). The process can be used with black toner only or CMYK toner cartridges to create full-color prints.",
+  "img": ""
  },
  {
-  "acronym": "latency",
-  "term": " Time taken for a signal to reach the recipient, measured in milliseconds. Latency is a particular problem for two-way applications, such as VoIP (telephone) and online conferencing."
+  "acronym": "",
+  "term": "latency",
+  "def": "Time taken for a signal to reach the recipient, measured in milliseconds. Latency is a particular problem for two-way applications, such as VoIP (telephone) and online conferencing.",
+  "img": ""
  },
  {
-  "acronym": "lease (DHCP)",
-  "term": " Address configuration assigned by a DHCP server to a client for a limited period."
+  "acronym": "",
+  "term": "lease (DHCP)",
+  "def": "Address configuration assigned by a DHCP server to a client for a limited period.",
+  "img": ""
  },
  {
-  "acronym": "legacy system",
-  "term": " Hardware or software product that is no longer supported by its vendor and therefore no longer provided with security updates and patches."
+  "acronym": "",
+  "term": "legacy system",
+  "def": "Hardware or software product that is no longer supported by its vendor and therefore no longer provided with security updates and patches.",
+  "img": ""
  },
  {
   "acronym": "LED",
-  "term": " light emitting diode (LED)  Small, low-power lamps used both as diagnostic indicators, the backlight for a TFT display, and (as an organic LED array) in high-quality flat panels."
+  "term": "light emitting diode (LED)",
+  "def": "Small, low-power lamps used both as diagnostic indicators, the backlight for a TFT display, and (as an organic LED array) in high-quality flat panels.",
+  "img": ""
  },
  {
-  "acronym": "Lightning",
-  "term": " Proprietary connector and interface used by Apple iPhone and iPad devices."
+  "acronym": "",
+  "term": "Lightning",
+  "def": "Proprietary connector and interface used by Apple iPhone and iPad devices.",
+  "img": "4639-1677002166085.png"
  },
  {
   "acronym": "LDAP",
-  "term": " Lightweight Directory Access Protocol (LDAP)  Protocol used to access network directory databases, which store information about authorized users and their privileges, as well as other organizational information."
+  "term": "Lightweight Directory Access Protocol (LDAP)",
+  "def": "Protocol used to access network directory databases, which store information about authorized users and their privileges, as well as other organizational information.",
+  "img": ""
  },
  {
-  "acronym": "liquid cooling",
-  "term": " Cooling system that uses system of pipes, water blocks, and pumps to transfer heat away from components."
+  "acronym": "",
+  "term": "liquid cooling",
+  "def": "Cooling system that uses system of pipes, water blocks, and pumps to transfer heat away from components.",
+  "img": ""
  },
  {
   "acronym": "LCD",
-  "term": " liquid crystal display (LCD) Flat-panel display technology where the image is made up of liquid crystal cells with color filters controlled using electrical charges. The display must be illuminated by a backlight."
+  "term": "liquid crystal display (LCD)",
+  "def": "Flat-panel display technology where the image is made up of liquid crystal cells with color filters controlled using electrical charges. The display must be illuminated by a backlight.",
+  "img": ""
  },
  {
-  "acronym": "load balancer",
-  "term": " Type of switch, router, or software that distributes client requests between different resources, such as communications links or similarly configured servers. This provides fault tolerance and improves throughput."
+  "acronym": "",
+  "term": "load balancer",
+  "def": "Type of switch, router, or software that distributes client requests between different resources, such as communications links or similarly configured servers. This provides fault tolerance and improves throughput.",
+  "img": ""
  },
  {
   "acronym": "LAN",
-  "term": " local area network (LAN)  Network scope restricted to a single geographic location and owned/managed by a single organization."
+  "term": "local area network (LAN)",
+  "def": "Network scope restricted to a single geographic location and owned/managed by a single organization.",
+  "img": ""
  },
  {
   "acronym": "LC",
-  "term": " local connector (LC)  Small form factor push-pull fiber optic connector",
-  "def": " available in simplex and duplex versions."
+  "term": "local connector (LC)",
+  "def": "Small form factor push-pull fiber optic connector",
+  "img": "available in simplex and duplex versions."
  },
  {
-  "acronym": "location service",
-  "term": " Feature of mobile computing that identifies or estimates the device's geographical position using GPS and/or network data. "
+  "acronym": "",
+  "term": "location service",
+  "def": "Feature of mobile computing that identifies or estimates the device's geographical position using GPS and/or network data. ",
+  "img": ""
  },
  {
   "acronym": "LTE",
-  "term": " Long Term Evolution (LTE)  Packet data communications specification providing an upgrade path for both GSM and CDMA cellular networks. LTE Advanced is designed to provide 4G standard network access."
+  "term": "Long Term Evolution (LTE)",
+  "def": "Packet data communications specification providing an upgrade path for both GSM and CDMA cellular networks. LTE Advanced is designed to provide 4G standard network access.",
+  "img": ""
  },
  {
-  "acronym": "long-range fixed wireless",
-  "term": " Ground-based microwave transmission that supports long distances over precisely aligned directional antennas. These products can either make privileged use of licensed frequency bands or use public unlicensed radio-frequency spectrum."
+  "acronym": "",
+  "term": "long-range fixed wireless",
+  "def": "Ground-based microwave transmission that supports long distances over precisely aligned directional antennas. These products can either make privileged use of licensed frequency bands or use public unlicensed radio-frequency spectrum.",
+  "img": ""
  },
  {
-  "acronym": "loopback adapter",
-  "term": " Tool used to verify the integrity of a network interface port by checking that it can receive a signal generated by itself."
+  "acronym": "",
+  "term": "loopback adapter",
+  "def": "Tool used to verify the integrity of a network interface port by checking that it can receive a signal generated by itself.",
+  "img": ""
  },
  {
-  "acronym": "M.2",
-  "term": " Hardware specification for internal adapter cards. M.2 is often used for PCIe-based SSDs."
+  "acronym": "",
+  "term": "M.2",
+  "def": "Hardware specification for internal adapter cards. M.2 is often used for PCIe-based SSDs.",
+  "img": ""
  },
  {
-  "acronym": "maintenance kit",
-  "term": " On a laser printer, the fuser unit (the part that fuses toner onto the paper) needs replacing according to the maintenance kit schedule. A maintenance kit also includes new pickup, feed, and separation rollers. It may also include transfer components (roller or belt), or these may be replaced on a different schedule, depending on the printer model."
+  "acronym": "",
+  "term": "maintenance kit",
+  "def": "On a laser printer, the fuser unit (the part that fuses toner onto the paper) needs replacing according to the maintenance kit schedule. A maintenance kit also includes new pickup, feed, and separation rollers. It may also include transfer components (roller or belt), or these may be replaced on a different schedule, depending on the printer model.",
+  "img": ""
  },
  {
-  "acronym": "managed switch",
-  "term": " Ethernet switch that is configurable via a command-line interface or SDN controller."
+  "acronym": "",
+  "term": "managed switch",
+  "def": "Ethernet switch that is configurable via a command-line interface or SDN controller.",
+  "img": ""
  },
  {
-  "acronym": "mass storage",
-  "term": " Device with a persistent storage mechanism, such as hard drives, solid state drives, and optical drives."
+  "acronym": "",
+  "term": "mass storage",
+  "def": "Device with a persistent storage mechanism, such as hard drives, solid state drives, and optical drives.",
+  "img": ""
  },
  {
   "acronym": "MAC",
-  "term": " media access control (MAC)  Hardware address that uniquely identifies each network interface at layer 2 (Data Link). A MAC address is 48 bits long with the first half representing the manufacturer's organizationally unique identifier (OUI)."
+  "term": "media access control (MAC)",
+  "def": "Hardware address that uniquely identifies each network interface at layer 2 (Data Link). A MAC address is 48 bits long with the first half representing the manufacturer's organizationally unique identifier (OUI).",
+  "img": ""
  },
  {
-  "acronym": "memory card",
-  "term": " Solid state flash memory provisioned as a peripheral device in a proprietary adapter card form factors, such as Secure Digital and microSD."
+  "acronym": "",
+  "term": "memory card",
+  "def": "Solid state flash memory provisioned as a peripheral device in a proprietary adapter card form factors, such as Secure Digital and microSD.",
+  "img": ""
  },
  {
-  "acronym": "metered utilization",
-  "term": " Feature of cloud service models that allows customers to track and pay for precise compute, storage, and network resource units."
+  "acronym": "",
+  "term": "metered utilization",
+  "def": "Feature of cloud service models that allows customers to track and pay for precise compute, storage, and network resource units.",
+  "img": ""
  },
  {
   "acronym": "MAN",
-  "term": " metropolitan area network (MAN)  Network scope covers the area of a city (that is, no more than tens of kilometers)."
+  "term": "metropolitan area network (MAN)",
+  "def": "Network scope covers the area of a city (that is, no more than tens of kilometers).",
+  "img": ""
  },
  {
-  "acronym": "Microsoft 365",
-  "term": " Mobile/cloud computing office productivity and data storage suite operated by Microsoft."
+  "acronym": "",
+  "term": "Microsoft 365",
+  "def": "Mobile/cloud computing office productivity and data storage suite operated by Microsoft.",
+  "img": ""
  },
  {
   "acronym": "MAM",
-  "term": " mobile application management (MAM)  Enterprise management function that enables control over apps and storage for mobile devices and other endpoints."
+  "term": "mobile application management (MAM)",
+  "def": "Enterprise management function that enables control over apps and storage for mobile devices and other endpoints.",
+  "img": ""
  },
  {
   "acronym": "MDM",
-  "term": " mobile device management (MDM)  Process and supporting technologies for tracking, controlling, and securing the organization's mobile infrastructure."
+  "term": "mobile device management (MDM)",
+  "def": "Process and supporting technologies for tracking, controlling, and securing the organization's mobile infrastructure.",
+  "img": ""
  },
  {
-  "acronym": "modular power supply",
-  "term": " PSU design where power cables can be attached to ports on the unit as needed."
+  "acronym": "",
+  "term": "modular power supply",
+  "def": "PSU design where power cables can be attached to ports on the unit as needed.",
+  "img": ""
  },
  {
-  "acronym": "Molex connector",
-  "term": " Legacy power connector for internal devices such as hard drives and optical drives."
+  "acronym": "",
+  "term": "Molex connector",
+  "def": "Legacy power connector for internal devices such as hard drives and optical drives.",
+  "img": ""
  },
  {
-  "acronym": "mSATA",
-  "term": " Connector form factor for internal solid state drives."
+  "acronym": "",
+  "term": "mSATA",
+  "def": "Connector form factor for internal solid state drives.",
+  "img": ""
  },
  {
-  "acronym": "multicore",
-  "term": " CPU design that puts two chips onto the same package. Most CPUs are multicore (more than two cores)."
+  "acronym": "",
+  "term": "multicore",
+  "def": "CPU design that puts two chips onto the same package. Most CPUs are multicore (more than two cores).",
+  "img": ""
  },
  {
   "acronym": "MMF",
-  "term": " multimode fiber (MMF)  Fiber optic cable type using LED or vertical cavity surface emitting laser optics and graded using optical multimode types for core size and bandwidth."
+  "term": "multimode fiber (MMF)",
+  "def": "Fiber optic cable type using LED or vertical cavity surface emitting laser optics and graded using optical multimode types for core size and bandwidth.",
+  "img": ""
  },
  {
   "acronym": "MIMO",
-  "term": " multiple input multiple output (MIMO)  Use of multiple reception and transmission antennas to boost wireless bandwidth via spatial multiplexing and to boost range and signal reliability via spatial diversity."
+  "term": "multiple input multiple output (MIMO)",
+  "def": "Use of multiple reception and transmission antennas to boost wireless bandwidth via spatial multiplexing and to boost range and signal reliability via spatial diversity.",
+  "img": ""
  },
  {
-  "acronym": "multisocket",
-  "term": " Motherboard configuration with multiple CPU sockets. The CPUs installed must be identical."
+  "acronym": "",
+  "term": "multisocket",
+  "def": "Motherboard configuration with multiple CPU sockets. The CPUs installed must be identical.",
+  "img": ""
  },
  {
-  "acronym": "multithreading",
-  "term": " CPU architecture that exposes two or more logical processors to the OS, delivering performance benefits similar to multicore and multisocket to threaded applications."
+  "acronym": "",
+  "term": "multithreading",
+  "def": "CPU architecture that exposes two or more logical processors to the OS, delivering performance benefits similar to multicore and multisocket to threaded applications.",
+  "img": ""
  },
  {
   "acronym": "MU-MIMO",
-  "term": " multiuser MIMO (MU-MIMO)  Use of spatial multiplexing to allow a wireless access point to support multiple client stations simultaneously."
+  "term": "multi-user MIMO (MU-MIMO)",
+  "def": "Use of spatial multiplexing to allow a wireless access point to support multiple client stations simultaneously.",
+  "img": ""
  },
  {
-  "acronym": "MX record",
-  "term": " Type of DNS resource record used to identify the email servers used by a domain."
+  "acronym": "",
+  "term": "MX record",
+  "def": "Type of DNS resource record used to identify the email servers used by a domain.",
+  "img": ""
  },
  {
   "acronym": "NFC",
-  "term": " near-field communication (NFC)  Standard for two-way radio communications over very short (around four inches) distances, facilitating contactless payment and similar technologies. NFC is based on RFID."
+  "term": "near-field communication (NFC)",
+  "def": "Standard for two-way radio communications over very short (around four inches) distances, facilitating contactless payment and similar technologies. NFC is based on RFID.",
+  "img": ""
  },
  {
-  "acronym": "NetBIOS",
-  "term": " Session management protocol used to provide name registration and resolution services on legacy Microsoft networks."
+  "acronym": "",
+  "term": "NetBIOS",
+  "def": "Session management protocol used to provide name registration and resolution services on legacy Microsoft networks.",
+  "img": ""
  },
  {
   "acronym": "NAT",
-  "term": " network address translation (NAT)  Routing mechanism that conceals internal addressing schemes from the public Internet by translating between a single public address on the external side of a router and private, non-routable addresses internally. "
+  "term": "network address translation (NAT)",
+  "def": "Routing mechanism that conceals internal addressing schemes from the public Internet by translating between a single public address on the external side of a router and private, non-routable addresses internally. ",
+  "img": ""
  },
  {
   "acronym": "NAS",
-  "term": " network attached storage (NAS)  Storage device enclosure with network port and an embedded OS that supports typical network file access protocols (FTP and SMB for instance)."
+  "term": "network attached storage (NAS)",
+  "def": "Storage device enclosure with network port and an embedded OS that supports typical network file access protocols (FTP and SMB for instance).",
+  "img": ""
  },
  {
   "acronym": "NIC",
-  "term": " network interface card (NIC)  Adapter card that provides one or more Ethernet ports for connecting hosts to a network so that they can exchange data over a link."
+  "term": "network interface card (NIC)",
+  "def": "Adapter card that provides one or more Ethernet ports for connecting hosts to a network so that they can exchange data over a link.",
+  "img": ""
  },
  {
-  "acronym": "network mask",
-  "term": " Number of bits applied to an IP address to mask the network ID portion from the host/interface ID portion."
+  "acronym": "",
+  "term": "network mask",
+  "def": "Number of bits applied to an IP address to mask the network ID portion from the host/interface ID portion.",
+  "img": ""
  },
  {
   "acronym": "NVMe",
-  "term": " non-volatile memory express (NVMe)  Internal interface for connecting flash memory devices, such as SSDs, directly to a PCI Express bus. NVMe allows much higher transfer rates than SATA/AHCI."
+  "term": "non-volatile memory express (NVMe)",
+  "def": "Internal interface for connecting flash memory devices, such as SSDs, directly to a PCI Express bus. NVMe allows much higher transfer rates than SATA/AHCI.",
+  "img": ""
  },
  {
   "acronym": "OT",
-  "term": " operational technology (OT)  Communications network designed to implement an industrial control system rather than data networking."
+  "term": "operational technology (OT)",
+  "def": "Communications network designed to implement an industrial control system rather than data networking.",
+  "img": ""
  },
  {
   "acronym": "OCR",
-  "term": " optical character recognition (OCR)  Software that can identify the shapes of characters and digits to convert them from printed images to electronic data files that can be modified in a word-processing program."
+  "term": "optical character recognition (OCR)",
+  "def": "Software that can identify the shapes of characters and digits to convert them from printed images to electronic data files that can be modified in a word-processing program.",
+  "img": ""
  },
  {
-  "acronym": "optical drive",
-  "term": " Mass storage device that supports CD, DVD, and/or Blu-ray media. Burner-type drives also support recording and rewriting."
+  "acronym": "",
+  "term": "optical drive",
+  "def": "Mass storage device that supports CD, DVD, and/or Blu-ray media. Burner-type drives also support recording and rewriting.",
+  "img": ""
  },
  {
   "acronym": "ONT",
-  "term": " optical network terminal (ONT)  Device that converts between optical and electrical signaling deployed to facilitate full fiber Internet connection types."
+  "term": "optical network terminal (ONT)",
+  "def": "Device that converts between optical and electrical signaling deployed to facilitate full fiber Internet connection types.",
+  "img": ""
  },
  {
   "acronym": "OLED",
-  "term": " organic LED (OLED)  Type of flat panel display where each pixel is implemented as an LED, removing the need for a separate backlight."
+  "term": "organic LED (OLED)",
+  "def": "Type of flat panel display where each pixel is implemented as an LED, removing the need for a separate backlight.",
+  "img": ""
  },
  {
   "acronym": "OFDMA",
-  "term": " orthogonal frequency division multiple access (OFDMA)  Feature of Wi-Fi 6 allowing an access point to serve multiple client stations simultaneously."
+  "term": "orthogonal frequency division multiple access (OFDMA)  Feature of Wi-Fi 6 allowing an access point to serve multiple client stations simultaneously.",
+  "def": ""
  },
  {
-  "acronym": "output voltage",
-  "term": " Direct current (DC) 3.3 VDC, 5 VDC, and 12 VDC power supplied over PSU cables to computer components."
+  "acronym": "",
+  "term": "output voltage",
+  "def": "Direct current (DC) 3.3 VDC, 5 VDC, and 12 VDC power supplied over PSU cables to computer components.",
+  "img": ""
  },
  {
-  "acronym": "P1 connector",
-  "term": " Main power connector from the PSU to the motherboard."
+  "acronym": "",
+  "term": "P1 connector",
+  "def": "Main power connector from the PSU to the motherboard.",
+  "img": ""
  },
  {
   "acronym": "PDL",
-  "term": " page description language (PDL)  Instructions that the print device can use to create an image on the page (for most printers, this means a raster describing the placement of dots on the paper)."
+  "term": "page description language (PDL)",
+  "def": "Instructions that the print device can use to create an image on the page (for most printers, this means a raster describing the placement of dots on the paper).",
+  "img": ""
  },
  {
-  "acronym": "pairing",
-  "term": " Feature of Bluetooth that establishes connectivity between two devices, often by entering a PIN."
+  "acronym": "",
+  "term": "pairing",
+  "def": "Feature of Bluetooth that establishes connectivity between two devices, often by entering a PIN.",
+  "img": ""
  },
  {
-  "acronym": "patch cord",
-  "term": " Type of flexible network cable typically terminated with RJ45 connectors. Ethernet patch cords cannot be longer than five meters."
+  "acronym": "",
+  "term": "patch cord",
+  "def": "Type of flexible network cable typically terminated with RJ45 connectors. Ethernet patch cords cannot be longer than five meters.",
+  "img": ""
  },
  {
-  "acronym": "patch panel",
-  "term": " Type of distribution frame used with twisted pair cabling with IDCs to terminate fixed cabling on one side and modular jacks to make cross-connections to other equipment on the other."
+  "acronym": "",
+  "term": "patch panel",
+  "def": "Type of distribution frame used with twisted pair cabling with IDCs to terminate fixed cabling on one side and modular jacks to make cross-connections to other equipment on the other.",
+  "img": ""
  },
  {
   "acronym": "PCIe",
-  "term": " PCI Express (PCIe)  Internal expansion bus that uses serial point-to-point communications between devices. Each link can comprise one or more lanes (x1, x2, x4, x8, x12, x16, or x32). Each lane supports a full-duplex transfer rate of <span>25",
-  "def": "0 MB/s (v1.0) up to about 4 GB/s (v5.0)."
+  "term": "PCI Express (PCIe)",
+  "def": "Internal expansion bus that uses serial point-to-point communications between devices. Each link can comprise one or more lanes (x1, x2, x4, x8, x12, x16, or x32). Each lane supports a full-duplex transfer rate of 25",
+  "img": "0 MB/s (v1.0) up to about 4 GB/s (v5.0)."
  },
  {
   "acronym": "PCI",
-  "term": " peripheral component interconnect (PCI)  Legacy internal expansion bus supporting 32-bit parallel transfers working at 33 MHz."
+  "term": "peripheral component interconnect (PCI)",
+  "def": "Legacy internal expansion bus supporting 32-bit parallel transfers working at 33 MHz.",
+  "img": ""
  },
  {
-  "acronym": "permanent cable",
-  "term": " Type of solid network cable typically terminated to punchdown blocks that is run through wall and ceiling spaces."
+  "acronym": "",
+  "term": "permanent cable",
+  "def": "Type of solid network cable typically terminated to punchdown blocks that is run through wall and ceiling spaces.",
+  "img": ""
  },
  {
   "acronym": "PAN",
-  "term": " personal area network (PAN)  Network scope that uses close-range wireless technologies (usually based on Bluetooth or NFC) to establish communications between personal devices, such as smartphones, laptops, and printers/peripheral devices. "
+  "term": "personal area network (PAN)",
+  "def": "Network scope that uses close-range wireless technologies (usually based on Bluetooth or NFC) to establish communications between personal devices, such as smartphones, laptops, and printers/peripheral devices. ",
+  "img": ""
  },
  {
-  "acronym": "pickup rollers",
-  "term": " Print device components that feed paper between the input tray, print engine, and output tray."
+  "acronym": "",
+  "term": "pickup rollers",
+  "def": "Print device components that feed paper between the input tray, print engine, and output tray.",
+  "img": ""
  },
  {
   "acronym": "PGA",
-  "term": " pin grid array (PGA)  CPU socket form factor used predominantly by AMD where connector pins are located on the CPU package."
+  "term": "pin grid array (PGA)",
+  "def": "CPU socket form factor used predominantly by AMD where connector pins are located on the CPU package.",
+  "img": ""
  },
  {
   "acronym": "POTS",
-  "term": " plain old telephone system (POTS)  Parts of a telephone network \"local loop\" that use voice-grade cabling. Analog data transfer over POTS using dial-up modems is slow (33.3 Kb/s)."
+  "term": "plain old telephone system (POTS)",
+  "def": "Parts of a telephone network \"local loop\" that use voice-grade cabling. Analog data transfer over POTS using dial-up modems is slow (33.3 Kb/s).",
+  "img": ""
  },
  {
   "acronym": "PaaS",
-  "term": " platform as a service (PaaS)  Cloud service model that provisions application and database services as a platform for development of apps."
+  "term": "platform as a service (PaaS)",
+  "def": "Cloud service model that provisions application and database services as a platform for development of apps.",
+  "img": ""
  },
  {
-  "acronym": "Plenum",
-  "term": " Cable for use in building voids designed to be fire-resistant and to produce a minimal amount of smoke if burned."
+  "acronym": "",
+  "term": "Plenum",
+  "def": "Cable for use in building voids designed to be fire-resistant and to produce a minimal amount of smoke if burned.",
+  "img": ""
  },
  {
-  "acronym": "port (TCP/UDP)  In TCP and UDP applications, a unique number assigned to a particular application protocol. Server ports are typically assigned well-known or registered numbers, while client ports use dynamic or ephemeral numbering."
+  "acronym": "",
+  "term": "port (TCP/UDP)  In TCP and UDP applications, a unique number assigned to a particular application protocol. Server ports are typically assigned well-known or registered numbers, while client ports use dynamic or ephemeral numbering.",
+  "def": ""
  },
  {
-  "acronym": "port flapping",
-  "term": " Network error where a port transitions rapidly between up and down states."
+  "acronym": "",
+  "term": "port flapping",
+  "def": "Network error where a port transitions rapidly between up and down states.",
+  "img": ""
  },
  {
-  "acronym": "port replicator",
-  "term": " A simple device used to extend the range of ports (for example, USB, DVI, HDMI, Thunderbolt, network, and so on) available for a laptop computer when it is used on a desk."
+  "acronym": "",
+  "term": "port replicator",
+  "def": "A simple device used to extend the range of ports (for example, USB, DVI, HDMI, Thunderbolt, network, and so on) available for a laptop computer when it is used on a desk.",
+  "img": ""
  },
  {
   "acronym": "POP",
-  "term": " Post Office Protocol (POP)  Application protocol that enables a client to download email messages from a server mailbox to a client over port TCP/110 or secure port TCP/995."
+  "term": "Post Office Protocol (POP)",
+  "def": "Application protocol that enables a client to download email messages from a server mailbox to a client over port TCP/110 or secure port TCP/995.",
+  "img": ""
  },
  {
   "acronym": "PS",
-  "term": " PostScript (PS)  Page description language developed by Adobe that is capable of creating accurate, device-independent output (this means that two different printer models will produce exactly the same output from the same print file)."
+  "term": "PostScript (PS)",
+  "def": "Page description language developed by Adobe that is capable of creating accurate, device-independent output (this means that two different printer models will produce exactly the same output from the same print file).",
+  "img": ""
  },
  {
   "acronym": "PoE",
-  "term": " Power over Ethernet (PoE)  Specification allowing power to be supplied via switch ports and ordinary data cabling to devices such as VoIP handsets and wireless access points. Devices can draw up to about 13 W (or 25 W for PoE+)."
+  "term": "Power over Ethernet (PoE)",
+  "def": "Specification allowing power to be supplied via switch ports and ordinary data cabling to devices such as VoIP handsets and wireless access points. Devices can draw up to about 13 W (or 25 W for PoE+).",
+  "img": ""
  },
  {
-  "acronym": "power supply tester",
-  "term": " Type of meter designed to test that output voltages from PSU power connector cables are within expected tolerances."
+  "acronym": "",
+  "term": "power supply tester",
+  "def": "Type of meter designed to test that output voltages from PSU power connector cables are within expected tolerances.",
+  "img": ""
  },
  {
   "acronym": "PSU",
-  "term": " power supply unit (PSU)  Transformer that converts AC grid power into 3.3V, 5V, and 12V DC to power components on the motherboard. The type of PSU must match the case and motherboard form factor."
+  "term": "power supply unit (PSU)",
+  "def": "Transformer that converts AC grid power into 3.3V, 5V, and 12V DC to power components on the motherboard. The type of PSU must match the case and motherboard form factor.",
+  "img": ""
  },
  {
   "acronym": "POST",
-  "term": " power-on self-test (POST)  Test routine built into PC firmware to confirm that system components are available at boot or to signal an error condition via a beep code or on-screen status message."
+  "term": "power-on self-test (POST)",
+  "def": "Test routine built into PC firmware to confirm that system components are available at boot or to signal an error condition via a beep code or on-screen status message.",
+  "img": ""
  },
  {
   "acronym": "PRL",
-  "term": " preferred roaming list (PRL)  Data that allows a CDMA-based handset to connect to nearby cell towers."
+  "term": "preferred roaming list (PRL)",
+  "def": "Data that allows a CDMA-based handset to connect to nearby cell towers.",
+  "img": ""
  },
  {
-  "acronym": "print bed",
-  "term": " 3-D print device component on which output is deposited."
+  "acronym": "",
+  "term": "print bed",
+  "def": "3-D print device component on which output is deposited.",
+  "img": ""
  },
  {
-  "acronym": "print device",
-  "term": " Term used to describe the actual printer hardware that services a print job when submitted from an application."
+  "acronym": "",
+  "term": "print device",
+  "def": "Term used to describe the actual printer hardware that services a print job when submitted from an application.",
+  "img": ""
  },
  {
-  "acronym": "print monitor",
-  "term": " In Windows, the print monitor is a process that checks the print queue (%SystemRoot%\\System32\\Spool\\Printers\\) for print jobs. When they arrive, they are processed, if necessary, then passed via a print port to the print device. "
+  "acronym": "",
+  "term": "print monitor",
+  "def": "In Windows, the print monitor is a process that checks the print queue (%SystemRoot%\\System32\\Spool\\Printers\\) for print jobs. When they arrive, they are processed, if necessary, then passed via a print port to the print device. ",
+  "img": ""
  },
  {
-  "acronym": "print server",
-  "term": " Computer configured to share a connected printer with other hosts. The client hosts connect to the printer share rather than directly to the print device."
+  "acronym": "",
+  "term": "print server",
+  "def": "Computer configured to share a connected printer with other hosts. The client hosts connect to the printer share rather than directly to the print device.",
+  "img": ""
  },
  {
-  "acronym": "printer",
-  "term": " \"Printer\" is often used to mean \"print device\" but also refers to a term used to describe the software components of a printing solution. The printer is the object that Windows sends output to. It consists of a spool directory, a printer driver, and configuration information."
+  "acronym": "",
+  "term": "printer",
+  "def": "\"Printer\" is often used to mean \"print device\" but also refers to a term used to describe the software components of a printing solution. The printer is the object that Windows sends output to. It consists of a spool directory, a printer driver, and configuration information.",
+  "img": ""
  },
  {
   "acronym": "PCL",
-  "term": " Printer Control Language (PCL)  Page description and printer control language developed by HP to implement printer driver functionality."
+  "term": "Printer Control Language (PCL)",
+  "def": "Page description and printer control language developed by HP to implement printer driver functionality.",
+  "img": ""
  },
  {
-  "acronym": "private cloud",
-  "term": " Cloud that is deployed for use by a single entity."
+  "acronym": "",
+  "term": "private cloud",
+  "def": "Cloud that is deployed for use by a single entity.",
+  "img": ""
  },
  {
   "acronym": "PLC",
-  "term": " programmable logic controller (PLC)  Type of processor designed for deployment in an industrial or outdoor setting that can automate and monitor mechanical systems."
+  "term": "programmable logic controller (PLC)",
+  "def": "Type of processor designed for deployment in an industrial or outdoor setting that can automate and monitor mechanical systems.",
+  "img": ""
  },
  {
-  "acronym": "proxy server",
-  "term": " Server that mediates the communications between a client and another server. It can filter and often modify communications as well as provide caching services to improve performance."
+  "acronym": "",
+  "term": "proxy server",
+  "def": "Server that mediates the communications between a client and another server. It can filter and often modify communications as well as provide caching services to improve performance.",
+  "img": ""
  },
  {
-  "acronym": "public cloud (multitenant)  Cloud that is deployed for shared use by multiple independent tenants."
+  "acronym": "",
+  "term": "public cloud (multitenant)",
+  "def": "Cloud that is deployed for shared use by multiple independent tenants.",
+  "img": ""
  },
  {
-  "acronym": "public IP address",
-  "term": " Some IP address ranges are designated for use on private networks only. Packets with source IP addresses in public ranges are permitted to be forwarded over the Internet. Packets with source IP addresses from private ranges should be blocked at Internet gateways or forwarded using some type of translation mechanism."
+  "acronym": "",
+  "term": "public IP address",
+  "def": "Some IP address ranges are designated for use on private networks only. Packets with source IP addresses in public ranges are permitted to be forwarded over the Internet. Packets with source IP addresses from private ranges should be blocked at Internet gateways or forwarded using some type of translation mechanism.",
+  "img": ""
  },
  {
   "acronym": "PSTN",
-  "term": " public switched telephone network (PSTN)  Global network connecting national telecommunications systems."
+  "term": "public switched telephone network (PSTN)",
+  "def": "Global network connecting national telecommunications systems.",
+  "img": ""
  },
  {
-  "acronym": "punchdown tool",
-  "term": " Tool used to terminate solid twisted-pair copper cable to an insulation displacement connector block."
+  "acronym": "",
+  "term": "punchdown tool",
+  "def": "Tool used to terminate solid twisted-pair copper cable to an insulation displacement connector block.",
+  "img": ""
  },
  {
-  "acronym": "quadruple-channel",
-  "term": " System-memory controller configuration that provides four data pathways between the memory modules and a compatible CPU."
+  "acronym": "",
+  "term": "quadruple-channel",
+  "def": "System-memory controller configuration that provides four data pathways between the memory modules and a compatible CPU.",
+  "img": ""
  },
  {
   "acronym": "QoS",
-  "term": " quality of service (QoS)  Systems that differentiate data passing over the network that can reserve bandwidth for particular applications. A system that cannot guarantee a level of available bandwidth is often described as Class of Service (CoS)."
+  "term": "quality of service (QoS)",
+  "def": "Systems that differentiate data passing over the network that can reserve bandwidth for particular applications. A system that cannot guarantee a level of available bandwidth is often described as Class of Service (CoS).",
+  "img": ""
  },
  {
   "acronym": "RFID",
-  "term": " radio-frequency ID (RFID)  Means of encoding information into passive tags, which can be energized and read by radio waves from a reader device."
+  "term": "radio-frequency ID (RFID)",
+  "def": "Means of encoding information into passive tags, which can be energized and read by radio waves from a reader device.",
+  "img": ""
  },
  {
-  "acronym": "RAID0",
-  "term": " Striping drive configuration that provides no redundancy against device failure."
+  "acronym": "",
+  "term": "RAID0",
+  "def": "Striping drive configuration that provides no redundancy against device failure.",
+  "img": ""
  },
  {
-  "acronym": "RAID1",
-  "term": " Mirrored two-disk redundant drive configuration with 50% capacity utilization."
+  "acronym": "",
+  "term": "RAID1",
+  "def": "Mirrored two-disk redundant drive configuration with 50% capacity utilization.",
+  "img": ""
  },
  {
-  "acronym": "RAID10",
-  "term": " Stripe of mirrored four-disk redundant drive configuration with 50% capacity utilization. A RAID10 volume can support the loss of one device in each mirror."
+  "acronym": "",
+  "term": "RAID10",
+  "def": "Stripe of mirrored four-disk redundant drive configuration with 50% capacity utilization. A RAID10 volume can support the loss of one device in each mirror.",
+  "img": ""
  },
  {
-  "acronym": "RAID5",
-  "term": " Striping with parity-redundant drive configuration supporting a flexible number of devices and better than 50% capacity utilization."
+  "acronym": "",
+  "term": "RAID5",
+  "def": "Striping with parity-redundant drive configuration supporting a flexible number of devices and better than 50% capacity utilization.",
+  "img": ""
  },
  {
   "acronym": "RAM",
-  "term": " random-access memory (RAM)  Volatile storage devices that hold computer data and program instructions while the computer is turned on."
+  "term": "random-access memory (RAM)",
+  "def": "Volatile storage devices that hold computer data and program instructions while the computer is turned on.",
+  "img": ""
  },
  {
   "acronym": "RTC",
-  "term": " real-time clock (RTC)  Part of the system chipset that keeps track of the date and time. The RTC is powered by a battery, so the PC keeps track of the time even when it is powered down. If the computer starts losing time, it is a sign that the battery is failing."
+  "term": "real-time clock (RTC)",
+  "def": "Part of the system chipset that keeps track of the date and time. The RTC is powered by a battery, so the PC keeps track of the time even when it is powered down. If the computer starts losing time, it is a sign that the battery is failing.",
+  "img": ""
  },
  {
   "acronym": "RSSI",
-  "term": " received signal strength indicator (RSSI)  Signal strength as measured at the receiver, using either decibel units or an index value."
+  "term": "received signal strength indicator (RSSI)",
+  "def": "Signal strength as measured at the receiver, using either decibel units or an index value.",
+  "img": ""
  },
  {
   "acronym": "RAID",
-  "term": " redundant array of independent/inexpensive disks (RAID)  Specifications that support redundancy and fault tolerance for different configurations of multiple-device storage systems."
+  "term": "redundant array of independent/inexpensive disks (RAID)",
+  "def": "Specifications that support redundancy and fault tolerance for different configurations of multiple-device storage systems.",
+  "img": ""
  },
  {
-  "acronym": "redundant power supply",
-  "term": " System case configuration supporting two power units for fault tolerance."
+  "acronym": "",
+  "term": "redundant power supply",
+  "def": "System case configuration supporting two power units for fault tolerance.",
+  "img": ""
  },
  {
   "acronym": "RJ",
-  "term": " registered-jack connector (RJ)  Series of jack/plug types used with twisted-pair cabling, such as RJ45 and RJ11."
+  "term": "registered-jack connector (RJ)",
+  "def": "Series of jack/plug types used with twisted-pair cabling, such as RJ45 and RJ11.",
+  "img": ""
  },
  {
   "acronym": "RADIUS",
-  "term": " Remote Authentication Dial-in User Service (RADIUS)  AAA protocol used to manage remote and wireless authentication infrastructures."
+  "term": "Remote Authentication Dial-in User Service (RADIUS)",
+  "def": "AAA protocol used to manage remote and wireless authentication infrastructures.",
+  "img": ""
  },
  {
   "acronym": "RDP",
-  "term": " Remote Desktop Protocol (RDP)  Application protocol for operating remote connections to a host using a graphical interface. The protocol sends screen data from the remote host to the client and transfers mouse and keyboard input from the client to the remote host. It uses TCP port 3389."
+  "term": "Remote Desktop Protocol (RDP)",
+  "def": "Application protocol for operating remote connections to a host using a graphical interface. The protocol sends screen data from the remote host to the client and transfers mouse and keyboard input from the client to the remote host. It uses TCP port 3389.",
+  "img": ""
  },
  {
-  "acronym": "reservation (DHCP)  DHCP configuration that assigns either a prereserved or persistent IP address to a given host, based on its hardware address or other ID."
+  "acronym": "",
+  "term": "reservation (DHCP)",
+  "def": "DHCP configuration that assigns either a prereserved or persistent IP address to a given host, based on its hardware address or other ID.",
+  "img": ""
  },
  {
-  "acronym": "resin",
-  "term": " 3-D print device media type."
+  "acronym": "",
+  "term": "resin",
+  "def": "3-D print device media type.",
+  "img": ""
  },
  {
-  "acronym": "resource record",
-  "term": " Data file storing information about a DNS zone. The main records are as follows: A (maps a host name to an IPv4 address), AAAA (maps to an IPv6 address), CNAME (an alias for a host name), MX (the IP address of a mail server), and PTR (allows a host name to be identified from an IP address)."
+  "acronym": "",
+  "term": "resource record",
+  "def": "Data file storing information about a DNS zone. The main records are as follows: A (maps a host name to an IPv4 address), AAAA (maps to an IPv6 address), CNAME (an alias for a host name), MX (the IP address of a mail server), and PTR (allows a host name to be identified from an IP address).",
+  "img": ""
  },
  {
-  "acronym": "router",
-  "term": " Intermediate system working at the Network layer capable of forwarding packets around logical networks of different layer 1 and layer 2 types."
+  "acronym": "",
+  "term": "router",
+  "def": "Intermediate system working at the Network layer capable of forwarding packets around logical networks of different layer 1 and layer 2 types.",
+  "img": ""
  },
  {
-  "acronym": "sandbox",
-  "term": " Computing environment that is isolated from a host system to guarantee that the environment runs in a controlled, secure fashion. Communication links between the sandbox and the host are usually completely prohibited so that malware or faulty software can be analyzed in isolation and without risk to the host."
+  "acronym": "",
+  "term": "sandbox",
+  "def": "Computing environment that is isolated from a host system to guarantee that the environment runs in a controlled, secure fashion. Communication links between the sandbox and the host are usually completely prohibited so that malware or faulty software can be analyzed in isolation and without risk to the host.",
+  "img": ""
  },
  {
-  "acronym": "Satellite",
-  "term": " System of microwave transmissions where orbital satellites relay signals between terrestrial receivers or other orbital satellites. Satellite internet connectivity is enabled through a reception antenna connected to the PC or network through a DVB-S modem."
+  "acronym": "",
+  "term": "Satellite",
+  "def": "System of microwave transmissions where orbital satellites relay signals between terrestrial receivers or other orbital satellites. Satellite internet connectivity is enabled through a reception antenna connected to the PC or network through a DVB-S modem.",
+  "img": ""
  },
  {
-  "acronym": "scalability",
-  "term": " Property by which a computing environment is able to gracefully fulfill its ever-increasing resource needs."
+  "acronym": "",
+  "term": "scalability",
+  "def": "Property by which a computing environment is able to gracefully fulfill its ever-increasing resource needs.",
+  "img": ""
  },
  {
-  "acronym": "scan to cloud",
-  "term": " Feature of scanners and multifunction devices that directs output to a cloud storage account."
+  "acronym": "",
+  "term": "scan to cloud",
+  "def": "Feature of scanners and multifunction devices that directs output to a cloud storage account.",
+  "img": ""
  },
  {
-  "acronym": "scan to email",
-  "term": " Using an SMTP server (and possibly an LDAP server to look up recipients) to send a scanned job to a mail recipient directly."
+  "acronym": "",
+  "term": "scan to email",
+  "def": "Using an SMTP server (and possibly an LDAP server to look up recipients) to send a scanned job to a mail recipient directly.",
+  "img": ""
  },
  {
-  "acronym": "scan to folder",
-  "term": " Using Windows Networking (SMB) to output a scanned job directly to a shared folder on the network."
+  "acronym": "",
+  "term": "scan to folder",
+  "def": "Using Windows Networking (SMB) to output a scanned job directly to a shared folder on the network.",
+  "img": ""
  },
  {
-  "acronym": "scanner",
-  "term": " Type of copier that can convert the image of a physical object into an electronic data file. The two main components of a scanner are the lamp, which illuminates the object, and the recording device, an array of charge coupled devices (CCDs)."
+  "acronym": "",
+  "term": "scanner",
+  "def": "Type of copier that can convert the image of a physical object into an electronic data file. The two main components of a scanner are the lamp, which illuminates the object, and the recording device, an array of charge coupled devices (CCDs).",
+  "img": ""
  },
  {
-  "acronym": "scope (DHCP)",
-  "term": " Range of consecutive IP addresses in the same subnet that a DHCP server can lease to clients."
+  "acronym": "",
+  "term": "scope (DHCP)",
+  "def": "Range of consecutive IP addresses in the same subnet that a DHCP server can lease to clients.",
+  "img": ""
  },
  {
-  "acronym": "secure boot",
-  "term": " Feature of UEFI that prevents unauthorized processes from executing during the boot operation."
+  "acronym": "",
+  "term": "secure boot",
+  "def": "Feature of UEFI that prevents unauthorized processes from executing during the boot operation.",
+  "img": ""
  },
  {
   "acronym": "SSH",
-  "term": " Secure Shell (SSH)  Application protocol supporting secure tunneling and remote terminal emulation and file copy. SSH runs over TCP port 22."
+  "term": "Secure Shell (SSH)",
+  "def": "Application protocol supporting secure tunneling and remote terminal emulation and file copy. SSH runs over TCP port 22.",
+  "img": ""
  },
  {
-  "acronym": "secured print",
-  "term": " Feature that holds print jobs until the user authenticates directly with the print device using a PIN or smart badge."
+  "acronym": "",
+  "term": "secured print",
+  "def": "Feature that holds print jobs until the user authenticates directly with the print device using a PIN or smart badge.",
+  "img": ""
  },
  {
   "acronym": "SMART",
-  "term": " self-monitoring analysis and reporting technology (SMART)  Technology designed to alert the user to an error condition in a mass-storage device before the disk becomes unusable."
+  "term": "self-monitoring analysis and reporting technology (SMART)",
+  "def": "Technology designed to alert the user to an error condition in a mass-storage device before the disk becomes unusable.",
+  "img": ""
  },
  {
   "acronym": "SPF",
-  "term": " Sender Policy Framework (SPF)  DNS record identifying hosts authorized to send mail for the domain."
+  "term": "Sender Policy Framework (SPF)",
+  "def": "DNS record identifying hosts authorized to send mail for the domain.",
+  "img": ""
  },
  {
-  "acronym": "separation pad",
-  "term": " Print device component that ensures only a single sheet at a time is fed into the paper path."
+  "acronym": "",
+  "term": "separation pad",
+  "def": "Print device component that ensures only a single sheet at a time is fed into the paper path.",
+  "img": ""
  },
  {
   "acronym": "SATA",
-  "term": " serial ATA (SATA)  Serial ATA is the most widely used interface for hard disks on desktop and laptop computers. It uses a 7-pin data connector with one device per port. There are three SATA standards specifying bandwidths of 1.5 Gb/s, 3 Gb/s, and 6 Gb/s respectively. SATA drives also use a new 15-pin power connector, though adapters for the old style 4-pin Molex connectors are available. External drives are also supported via the eSATA interface. "
+  "term": "serial ATA (SATA)",
+  "def": "Serial ATA is the most widely used interface for hard disks on desktop and laptop computers. It uses a 7-pin data connector with one device per port. There are three SATA standards specifying bandwidths of 1.5 Gb/s, 3 Gb/s, and 6 Gb/s respectively. SATA drives also use a new 15-pin power connector, though adapters for the old style 4-pin Molex connectors are available. External drives are also supported via the eSATA interface.",
+  "img": "8403-1677002167701.png"
  },
  {
-  "acronym": "serial cable (RS-232)  Legacy bus type using low bandwidth asynchronous serial transmission (RS-232)."
+  "acronym": "",
+  "term": "serial cable (RS-232)  Legacy bus type using low bandwidth asynchronous serial transmission (RS-232).",
+  "def": ""
  },
  {
   "acronym": "SMB",
-  "term": " Server Message Block (SMB)  Application protocol used for requesting files from Windows servers and delivering them to clients. SMB allows machines to share files and printers, thus making them available for other machines to use. SMB client software is available for UNIX-based systems. Samba software allows UNIX and Linux servers or NAS appliances to run SMB services for Windows clients."
+  "term": "Server Message Block (SMB)",
+  "def": "Application protocol used for requesting files from Windows servers and delivering them to clients. SMB allows machines to share files and printers, thus making them available for other machines to use. SMB client software is available for UNIX-based systems. Samba software allows UNIX and Linux servers or NAS appliances to run SMB services for Windows clients.",
+  "img": ""
  },
  {
   "acronym": "SSID",
-  "term": "service set identifier (SSID)  Character string that identifies a particular wireless LAN (WLAN)."
+  "term": "service set identifier (SSID)",
+  "def": "Character string that identifies a particular wireless LAN (WLAN).",
+  "img": ""
  },
  {
   "acronym": "STP",
-  "term": "shielded twisted pair (STP)  Copper twisted-pair cabling with screening and shielding elements for individual wire pairs and/or the whole cable to reduce interference."
+  "term": "shielded twisted pair (STP)",
+  "def": "Copper twisted-pair cabling with screening and shielding elements for individual wire pairs and/or the whole cable to reduce interference.",
+  "img": ""
  },
  {
   "acronym": "SNR",
-  "term": " signal-to-noise ratio (SNR)  Measurement of a wireless signal level in relation to any background noise."
+  "term": "signal-to-noise ratio (SNR)",
+  "def": "Measurement of a wireless signal level in relation to any background noise.",
+  "img": ""
  },
  {
   "acronym": "SMTP",
-  "term": " Simple Mail Transfer Protocol (SMTP)  Application protocol used to send mail between hosts on the Internet. Messages are sent between servers over TCP port 25 or submitted by a mail client over secure port TCP/587."
+  "term": "Simple Mail Transfer Protocol (SMTP)",
+  "def": "Application protocol used to send mail between hosts on the Internet. Messages are sent between servers over TCP port 25 or submitted by a mail client over secure port TCP/587.",
+  "img": ""
  },
  {
   "acronym": "SNMP",
-  "term": " Simple Network Management Protocol (SNMP)  Application protocol used for monitoring and managing network devices. SNMP works over UDP ports 161 and 162 by default."
+  "term": "Simple Network Management Protocol (SNMP)",
+  "def": "Application protocol used for monitoring and managing network devices. SNMP works over UDP ports 161 and 162 by default.",
+  "img": ""
  },
  {
-  "acronym": "single-channel",
-  "term": " System-memory controller configuration that provides one data pathway between the memory modules and the CPU."
+  "acronym": "",
+  "term": "single-channel",
+  "def": "System-memory controller configuration that provides one data pathway between the memory modules and the CPU.",
+  "img": ""
  },
  {
   "acronym": "SMF",
-  "term": " single-mode fiber (SMF)  Fiber optic cable type that uses laser diodes and narrow core construction to support high bandwidths over distances of more than five kilometers."
+  "term": "single-mode fiber (SMF)",
+  "def": "Fiber optic cable type that uses laser diodes and narrow core construction to support high bandwidths over distances of more than five kilometers.",
+  "img": ""
  },
  {
   "acronym": "SCSI",
-  "term": " small computer systems interface (SCSI)  Legacy expansion bus standard allowing for the connection of internal and external devices. Each device on a SCSI bus must be allocated a unique ID. The bus must also be terminated at both ends."
+  "term": "small computer systems interface (SCSI)",
+  "def": "Legacy expansion bus standard allowing for the connection of internal and external devices. Each device on a SCSI bus must be allocated a unique ID. The bus must also be terminated at both ends.",
+  "img": ""
  },
  {
   "acronym": "SOHO",
-  "term": " small office, home office (SOHO)  Category of network type and products that are used to implement small-scale LANs and off-the-shelf Internet connection types."
+  "term": "small office, home office (SOHO) ",
+  "def": "Category of network type and products that are used to implement small-scale LANs and off-the-shelf Internet connection types.",
+  "img": ""
  },
  {
-  "acronym": "smart device",
-  "term": " Device or appliance (such as a TV, refrigerator, thermostat, video entry phone, or lightbulb) that can be configured and monitored over an IoT network."
+  "acronym": "",
+  "term": "smart device",
+  "def": "Device or appliance (such as a TV, refrigerator, thermostat, video entry phone, or lightbulb) that can be configured and monitored over an IoT network.",
+  "img": ""
  },
  {
-  "acronym": "SODIMM",
-  "term": " System-memory form factor designed for use in laptops."
+  "acronym": "",
+  "term": "SODIMM",
+  "def": "System-memory form factor designed for use in laptops.",
+  "img": ""
  },
  {
   "acronym": "SaaS",
-  "term": " software as a service (SaaS)  Cloud service model that provisions fully developed application services to users."
+  "term": "software as a service (SaaS)",
+  "def": "Cloud service model that provisions fully developed application services to users.",
+  "img": ""
  },
  {
   "acronym": "SDN",
-  "term": " software-defined networking (SDN)  APIs and compatible hardware/virtual appliances allowing for programmable network appliances and systems."
+  "term": "software-defined networking (SDN)",
+  "def": "APIs and compatible hardware/virtual appliances allowing for programmable network appliances and systems.",
+  "img": ""
  },
  {
   "acronym": "SSD",
-  "term": " solid state drive (SSD)  Persistent mass-storage device implemented using flash memory."
+  "term": "solid state drive (SSD)",
+  "def": "Persistent mass-storage device implemented using flash memory.",
+  "img": ""
  },
  {
-  "acronym": "sound card",
-  "term": " Adapter card providing sound playback and recording functionality. A number of different audio ports exist on modern computer motherboards or on specialist sound cards. Commonly, audio ports may be marked as: audio out, audio in, speaker out, microphone input/mic, and headphones."
+  "acronym": "",
+  "term": "sound card",
+  "def": "Adapter card providing sound playback and recording functionality. A number of different audio ports exist on modern computer motherboards or on specialist sound cards. Commonly, audio ports may be marked as: audio out, audio in, speaker out, microphone input/mic, and headphones.",
+  "img": ""
  },
  {
-  "acronym": "spam",
-  "term": " Junk, fraudulent, and malicious messaging sent over email (or instant messaging, which is called spim). Spam can also be spread via social networking."
+  "acronym": "",
+  "term": "spam",
+  "def": "Junk, fraudulent, and malicious messaging sent over email (or instant messaging, which is called spim). Spam can also be spread via social networking.",
+  "img": ""
  },
  {
-  "acronym": "spool",
-  "term": " Generic term describing how a print output stream is passed from a client application and stored temporarily at a print server until the print monitor can route the job to the print device."
+  "acronym": "",
+  "term": "spool",
+  "def": "Generic term describing how a print output stream is passed from a client application and stored temporarily at a print server until the print monitor can route the job to the print device.",
+  "img": ""
  },
  {
   "acronym": "SAN",
-  "term": " storage area network (SAN)  Network dedicated to provisioning storage resources, typically consisting of storage devices and servers connected to switches via host bus adapters."
+  "term": "storage area network (SAN)",
+  "def": "Network dedicated to provisioning storage resources, typically consisting of storage devices and servers connected to switches via host bus adapters.",
+  "img": ""
  },
  {
   "acronym": "ST",
-  "term": " straight-tip connector (ST)  Bayonet-style twist-and-lock connector for fiber optic cabling."
+  "term": "straight-tip connector (ST)",
+  "def": "Bayonet-style twist-and-lock connector for fiber optic cabling.",
+  "img": ""
  },
  {
   "acronym": "SC",
-  "term": " subscriber connector (SC)  Push/pull connector used with fiber optic cabling."
+  "term": "subscriber connector (SC)",
+  "def": "Push/pull connector used with fiber optic cabling.",
+  "img": ""
  },
  {
   "acronym": "SCADA",
-  "term": " supervisory control and data acquisition (SCADA)  Type of industrial control system that manages large-scale, multiple-site devices and equipment spread over geographically large areas from a host computer."
+  "term": "supervisory control and data acquisition (SCADA)",
+  "def": "Type of industrial control system that manages large-scale, multiple-site devices and equipment spread over geographically large areas from a host computer.",
+  "img": ""
  },
  {
-  "acronym": "switch",
-  "term": " Intermediate system used to establish contention-free network segments at OSI layer 2 (Data Link). An unmanaged switch does not support any sort of configuration."
+  "acronym": "",
+  "term": "switch",
+  "def": "Intermediate system used to establish contention-free network segments at OSI layer 2 (Data Link). An unmanaged switch does not support any sort of configuration.",
+  "img": ""
  },
  {
   "acronym": "SPAN",
-  "term": " switched port analyzer (SPAN)  Copying ingress and/or egress communications from one or more switch ports to another port. This is used to monitor communications passing over the switch."
+  "term": "switched port analyzer (SPAN)",
+  "def": "Copying ingress and/or egress communications from one or more switch ports to another port. This is used to monitor communications passing over the switch.",
+  "img": ""
  },
  {
-  "acronym": "syslog",
-  "term": " Application protocol and event-logging format enabling different appliances and software applications to transmit logs or event records to a central server. Syslog works over UDP port 514 by default."
+  "acronym": "",
+  "term": "syslog",
+  "def": "Application protocol and event-logging format enabling different appliances and software applications to transmit logs or event records to a central server. Syslog works over UDP port 514 by default.",
+  "img": ""
  },
  {
-  "acronym": "T568A/T568B",
-  "term": " Twisted-pair termination pinouts defined in the ANSI/TIA/EIA 568 Commercial Building Telecommunications Standards."
+  "acronym": "",
+  "term": "T568A/T568B",
+  "def": "Twisted-pair termination pinouts defined in the ANSI/TIA/EIA 568 Commercial Building Telecommunications Standards.",
+  "img": ""
  },
  {
-  "acronym": "telnet",
-  "term": " Application protocol supporting unsecure terminal emulation for remote host management. Telnet runs over TCP port 23."
+  "acronym": "",
+  "term": "telnet",
+  "def": "Application protocol supporting unsecure terminal emulation for remote host management. Telnet runs over TCP port 23.",
+  "img": ""
  },
  {
   "acronym": "TAP",
-  "term": " test access port (TAP)  Hardware device inserted into a cable run to copy frames for analysis."
+  "term": "test access port (TAP)  Hardware device inserted into a cable run to copy frames for analysis.",
+  "def": ""
  },
  {
-  "acronym": "thermal paste/pad",
-  "term": " Cooling substance applied between a component and heat sink to optimize heat transfer."
+  "acronym": "",
+  "term": "thermal paste/pad",
+  "def": "Cooling substance applied between a component and heat sink to optimize heat transfer.",
+  "img": ""
  },
  {
-  "acronym": "thermal printer",
-  "term": " Type of printer that uses a heated print head and specially treated paper to form the image. Most direct thermal printers are handheld devices used for printing labels or receipts."
+  "acronym": "",
+  "term": "thermal printer",
+  "def": "Type of printer that uses a heated print head and specially treated paper to form the image. Most direct thermal printers are handheld devices used for printing labels or receipts.",
+  "img": ""
  },
  {
   "acronym": "TFT",
-  "term": " thin film transistor (TFT)  Specific display technology used to implement modern flat-panel LCD displays."
+  "term": "thin film transistor (TFT)",
+  "def": "Specific display technology used to implement modern flat-panel LCD displays.",
+  "img": ""
  },
  {
-  "acronym": "Thunderbolt",
-  "term": " Thunderbolt can be used as a display interface (like DisplayPort) and as a general peripheral interface (like USB 3). The latest version uses USB-C connectors."
+  "acronym": "",
+  "term": "Thunderbolt",
+  "def": "Thunderbolt can be used as a display interface (like DisplayPort) and as a general peripheral interface (like USB 3). The latest version uses USB-C connectors.",
+  "img": "708-1677002166009.jpg"
  },
  {
-  "acronym": "tone generator",
-  "term": " Two-part tool used to identify one cable within a bundle by applying an audible signal."
+  "acronym": "",
+  "term": "tone generator",
+  "def": "Two-part tool used to identify one cable within a bundle by applying an audible signal.",
+  "img": ""
  },
  {
-  "acronym": "toner",
-  "term": " Specially formulated compound to impart dye to paper through an electrographic process (used by laser printers and photocopiers). The key properties of toner are the colorant (dye), ability to fuse (wax or plastic), and ability to hold a charge. There are three main types of toner, distinguished by the mechanism of applying the toner to the developer roller: dual component (where the toner is mixed with a separate magnetic developer), mono-component (where the toner itself is magnetic), and non-magnetic mono-component (where the toner is transferred using static properties)."
+  "acronym": "",
+  "term": "toner",
+  "def": "Specially formulated compound to impart dye to paper through an electrographic process (used by laser printers and photocopiers). The key properties of toner are the colorant (dye), ability to fuse (wax or plastic), and ability to hold a charge. There are three main types of toner, distinguished by the mechanism of applying the toner to the developer roller: dual component (where the toner is mixed with a separate magnetic developer), mono-component (where the toner itself is magnetic), and non-magnetic mono-component (where the toner is transferred using static properties).",
+  "img": ""
  },
  {
-  "acronym": "touch pen",
-  "term": " Input device that can be used with a compatible digitizer/track pad/drawing tablet for natural input, such as handwriting and sketching."
+  "acronym": "",
+  "term": "touch pen",
+  "def": "Input device that can be used with a compatible digitizer/track pad/drawing tablet for natural input, such as handwriting and sketching.",
+  "img": ""
  },
  {
-  "acronym": "touch screen",
-  "term": " A display screen combined with a digitizer that is responsive to touch input."
+  "acronym": "",
+  "term": "touch screen",
+  "def": "A display screen combined with a digitizer that is responsive to touch input.",
+  "img": ""
  },
  {
-  "acronym": "trackpad",
-  "term": " Sometimes synonymous with touch pad, but also a touch interface provisioned as a peripheral device, often dedicated to use with digital art applications."
+  "acronym": "",
+  "term": "trackpad",
+  "def": "Sometimes synonymous with touch pad, but also a touch interface provisioned as a peripheral device, often dedicated to use with digital art applications.",
+  "img": ""
  },
  {
-  "acronym": "transfer roller/belt",
-  "term": " Roller, corona wire, or belt assembly on a laser print device that applies a charge to the media (paper) so that it attracts toner from the photoconductor. A detac strip then removes the charge to prevent paper curl. On a color laser printer, the transfer unit is usually a belt."
+  "acronym": "",
+  "term": "transfer roller/belt",
+  "def": "Roller, corona wire, or belt assembly on a laser print device that applies a charge to the media (paper) so that it attracts toner from the photoconductor. A detac strip then removes the charge to prevent paper curl. On a color laser printer, the transfer unit is usually a belt.",
+  "img": ""
  },
  {
   "acronym": "TCP",
-  "term": " Transmission Control Protocol (TCP)  Protocol in the TCP/IP suite operating at the transport layer to provide connection-oriented, guaranteed delivery of packets."
+  "term": "Transmission Control Protocol (TCP)",
+  "def": "Protocol in the TCP/IP suite operating at the transport layer to provide connection-oriented, guaranteed delivery of packets.",
+  "img": ""
  },
  {
   "acronym": "TCP/IP",
-  "term": " Transmission Control Protocol/Internet Protocol (TCP/IP)  Network protocol suite used to implement the Internet and most WANs and LANs. It uses a four-layer network model that corresponds roughly to the OSI model as follows: Network Interface (Physical/Data Link), Internet (Network), Transport (Transport), Application (Session, Presentation, Application)."
+  "term": "Transmission Control Protocol/Internet Protocol (TCP/IP)",
+  "def": "Network protocol suite used to implement the Internet and most WANs and LANs. It uses a four-layer network model that corresponds roughly to the OSI model as follows: Network Interface (Physical/Data Link), Internet (Network), Transport (Transport), Application (Session, Presentation, Application).",
+  "img": ""
  },
  {
   "acronym": "TLS",
-  "term": " Transport Layer Security (TLS)  Security protocol that uses certificates for authentication and encryption to protect web communications and other application protocols."
+  "term": "Transport Layer Security (TLS)",
+  "def": "Security protocol that uses certificates for authentication and encryption to protect web communications and other application protocols.",
+  "img": ""
  },
  {
-  "acronym": "triple-channel",
-  "term": " System-memory controller configuration that provides three data pathways between the memory modules and a compatible CPU."
+  "acronym": "",
+  "term": "triple-channel",
+  "def": "System-memory controller configuration that provides three data pathways between the memory modules and a compatible CPU.",
+  "img": ""
  },
  {
   "acronym": "TFTP",
-  "term": "Trivial File Transfer Protocol (TFTP)  Simplified form of FTP supporting only file copying. TFTP works over UDP port 69."
+  "term": "Trivial File Transfer Protocol (TFTP)",
+  "def": "Simplified form of FTP supporting only file copying. TFTP works over UDP port 69.",
+  "img": ""
  },
  {
-  "acronym": "troubleshooting methodology",
-  "term": " Structured approach to problem-solving using identification, theory of cause, testing, planning, implementation, verification, and documentation steps."
+  "acronym": "",
+  "term": "troubleshooting methodology",
+  "def": "Structured approach to problem-solving using identification, theory of cause, testing, planning, implementation, verification, and documentation steps.",
+  "img": ""
  },
  {
   "acronym": "TPM",
-  "term": " trusted platform module (TPM) Specification for secure hardware-based storage of encryption keys, hashed passwords, and other user- and platform-identification information."
+  "term": "trusted platform module (TPM)",
+  "def": "Specification for secure hardware-based storage of encryption keys, hashed passwords, and other user- and platform-identification information.",
+  "img": ""
  },
  {
   "acronym": "TN",
-  "term": " twisted nematic (TN)  Type of low-cost TFT display with relatively poor viewing angles and contrast ratio, but good response times."
+  "term": "twisted nematic (TN)",
+  "def": "Type of low-cost TFT display with relatively poor viewing angles and contrast ratio, but good response times.",
+  "img": ""
  },
  {
-  "acronym": "twisted pair cable",
-  "term": " Network cable construction with insulated copper wires twisted about each other. A pair of color-coded wires transmits a balanced electrical signal. The twisting of the wire pairs at different rates acts to reduce interference and crosstalk."
+  "acronym": "",
+  "term": "twisted pair cable",
+  "def": "Network cable construction with insulated copper wires twisted about each other. A pair of color-coded wires transmits a balanced electrical signal. The twisting of the wire pairs at different rates acts to reduce interference and crosstalk.",
+  "img": ""
  },
  {
   "acronym": "2FA",
-  "term": " two-factor authentication (2FA)  Strong authentication mechanism that requires a user to submit two different types of credential, such as a fingerprint scan plus PIN. Often, the second credential is transmitted via a second trusted device or account. This is also referred to as 2-step verification."
+  "term": "two-factor authentication (2FA)",
+  "def": "Strong authentication mechanism that requires a user to submit two different types of credential, such as a fingerprint scan plus PIN. Often, the second credential is transmitted via a second trusted device or account. This is also referred to as 2-step verification.",
+  "img": ""
  },
  {
-  "acronym": "TXT record",
-  "term": " DNS resource record for storing free-form string values."
+  "acronym": "",
+  "term": "TXT record",
+  "def": "DNS resource record for storing free-form string values.",
+  "img": ""
  },
  {
-  "acronym": "unboxing",
-  "term": " Operational procedure for ensuring that a new device is installed safely to an optimum environment."
+  "acronym": "",
+  "term": "unboxing",
+  "def": "Operational procedure for ensuring that a new device is installed safely to an optimum environment.",
+  "img": ""
  },
  {
   "acronym": "UEFI",
-  "term": " unified extensible firmware interface (UEFI) Type of system firmware providing support for 64-bit CPU operation at boot, full GUI and mouse operation at boot, and better boot security."
+  "term": "unified extensible firmware interface (UEFI)",
+  "def": "Type of system firmware providing support for 64-bit CPU operation at boot, full GUI and mouse operation at boot, and better boot security.",
+  "img": ""
  },
  {
   "acronym": "UTM",
-  "term": " unified threat management (UTM)  All-in-one security appliances and agents that combine the functions of a firewall, malware scanner, intrusion detection, vulnerability scanner, data-loss prevention, content filtering, and so on."
+  "term": "unified threat management (UTM)",
+  "def": "All-in-one security appliances and agents that combine the functions of a firewall, malware scanner, intrusion detection, vulnerability scanner, data-loss prevention, content filtering, and so on.",
+  "img": ""
  },
  {
   "acronym": "URL",
-  "term": " uniform resource locator (URL)  Application-level addressing scheme for TCP/IP, allowing for human-readable resource addressing. For example: protocol://server/file, where \"protocol\" is the type of resource (HTTP, FTP), \"server\" is the name of the computer (www.microsoft.com), and \"file\" is the name of the resource you wish to access."
+  "term": "uniform resource locator (URL)",
+  "def": "Application-level addressing scheme for TCP/IP, allowing for human-readable resource addressing. For example: protocol://server/file, where \"protocol\" is the type of resource (HTTP, FTP), \"server\" is the name of the computer (www.microsoft.com), and \"file\" is the name of the resource you wish to access.",
+  "img": ""
  },
  {
   "acronym": "UART",
-  "term": " universal asynchronous receiver transmitter (UART)  Controller that can send and receive data in an asynchronous serial format."
+  "term": "universal asynchronous receiver transmitter (UART)",
+  "def": "Controller that can send and receive data in an asynchronous serial format.",
+  "img": ""
  },
  {
   "acronym": "USB",
-  "term": " Universal Serial Bus (USB)  USB is the main type of connection interface used on PCs. A larger Type A connector attaches to a port on the host",
-  "def": " Type B and Mini- or Micro-Type B connectors are used for devices. USB 1.1 supports 12 Mb/s, while USB 2.0 supports 480 Mb/s and is backward compatible with 1.1 devices (which run at the slower speed). USB devices are hot swappable. A device can draw up to 2.5 W power. USB 3.0 and 3.1 define 5 Gb/s (SuperSpeed) and 10 Gb/s (SuperSpeed+) rates and can deliver 4.5 W power."
+  "term": "Universal Serial Bus (USB)",
+  "def": "USB is the main type of connection interface used on PCs. A larger Type A connector attaches to a port on the host USB Type B and Mini- or Micro-Type B connectors are used for devices. USB 1.1 supports 12 Mb/s, while USB 2.0 supports 480 Mb/s and is backward compatible with 1.1 devices (which run at the slower speed). USB devices are hot swappable. A device can draw up to 2.5 W power. USB 3.0 and 3.1 define 5 Gb/s (SuperSpeed) and 10 Gb/s (SuperSpeed+) rates and can deliver 4.5 W power.",
+  "img": ""
  },
  {
-  "acronym": "USB 2.0",
-  "term": " 480 Mbps half-duplex "
+  "acronym": "",
+  "term": "USB 2.0",
+  "def": "480 Mbps half-duplex",
+  "img": "<img src=\"731-1677002165822.png\">"
  },
  {
-  "acronym": "USB 3.x",
-  "term": " 5 Gb/s (SuperSpeed)full-duplex"
+  "acronym": "",
+  "term": "USB 3.x",
+  "def": "5 Gb/s (SuperSpeed)full-duplex",
+  "img": "<img src=\"3969-1677002165877.png\">"
  },
  {
   "acronym": "UTP",
-  "term": " unshielded twisted pair (UTP) Media type that uses copper conductors arranged in pairs that are twisted to reduce interference. Typically, cables are 4-pair or 2-pair."
+  "term": "unshielded twisted pair (UTP)",
+  "def": "Media type that uses copper conductors arranged in pairs that are twisted to reduce interference. Typically, cables are 4-pair or 2-pair.",
+  "img": ""
  },
  {
   "acronym": "USB permission",
-  "term": " Feature of system setup allowing USB ports to be disabled."
+  "term": "Feature of system setup allowing USB ports to be disabled.",
+  "def": ""
  },
  {
   "acronym": "UDP",
-  "term": " User Datagram Protocol (UDP)  Protocol in the TCP/IP suite operating at the transport layer to provide connectionless, non-guaranteed communication."
+  "term": "User Datagram Protocol (UDP)",
+  "def": "Protocol in the TCP/IP suite operating at the transport layer to provide connectionless, non-guaranteed communication.",
+  "img": ""
  },
  {
   "acronym": "VA",
-  "term": " vertical alignment (VA)  Type of TFT display with good viewing angles and excellent contrast ratio."
+  "term": "vertical alignment (VA)",
+  "def": "Type of TFT display with good viewing angles and excellent contrast ratio.",
+  "img": ""
  },
  {
   "acronym": "video card",
-  "term": " Adapter that handles graphics processing and output to a display device over one or more video interface ports."
+  "term": "Adapter that handles graphics processing and output to a display device over one or more video interface ports.",
+  "def": ""
  },
  {
   "acronym": "VGA",
-  "term": " video graphics array (VGA)  Legacy video interface supporting analog-only signaling over a 15-pin D-shell connector."
+  "term": "video graphics array (VGA)",
+  "def": "Legacy video interface supporting analog-only signaling over a 15-pin D-shell connector.",
+  "img": ""
  },
  {
   "acronym": "VDI",
-  "term": " virtual desktop infrastructure (VDI)  A virtualization implementation that separates the personal computing environment from a user's physical computer."
+  "term": "virtual desktop infrastructure (VDI)",
+  "def": "A virtualization implementation that separates the personal computing environment from a user's physical computer.",
+  "img": ""
  },
  {
   "acronym": "VLAN",
-  "term": " virtual local area network (VLAN)  Logical network segment comprising a broadcast domain established using a feature of managed switches to assign each port a VLAN ID. Even though hosts on two VLANs may be physically connected to the same switch, local traffic is isolated to each VLAN, so they must use a router to communicate."
+  "term": "virtual local area network (VLAN)",
+  "def": "Logical network segment comprising a broadcast domain established using a feature of managed switches to assign each port a VLAN ID. Even though hosts on two VLANs may be physically connected to the same switch, local traffic is isolated to each VLAN, so they must use a router to communicate.",
+  "img": ""
  },
  {
   "acronym": "VM",
-  "term": " virtual machine (VM)  Guest operating system installed on a host computer using virtualization software (a hypervisor)."
+  "term": "virtual machine (VM)",
+  "def": "Guest operating system installed on a host computer using virtualization software (a hypervisor).",
+  "img": ""
  },
  {
   "acronym": "VM escaping",
-  "term": " virtual machine escaping (VM escaping)  Attack against a virtualization platform where malware running in a VM is able to interact directly with the hypervisor or host kernel."
+  "term": "virtual machine escaping (VM escaping)",
+  "def": "Attack against a virtualization platform where malware running in a VM is able to interact directly with the hypervisor or host kernel.",
+  "img": ""
  },
  {
   "acronym": "VM sprawl",
-  "term": " virtual machine sprawl (VM sprawl)  Configuration vulnerability where provisioning and deprovisioning of virtual assets are not properly authorized and monitored."
+  "term": "virtual machine sprawl (VM sprawl)",
+  "def": "Configuration vulnerability where provisioning and deprovisioning of virtual assets are not properly authorized and monitored.",
+  "img": ""
  },
  {
   "acronym": "VPN",
-  "term": " virtual private network (VPN)  Secure tunnel created between two endpoints connected via an unsecure transport network (typically the Internet)."
+  "term": "virtual private network (VPN)",
+  "def": "Secure tunnel created between two endpoints connected via an unsecure transport network (typically the Internet).",
+  "img": ""
  },
  {
-  "acronym": "virtual RAM",
-  "term": " An OS mediates access to random-access memory (RAM) devices by assigning a virtual address space to each process. As well as protecting memory access, the memory capacity can be extended by configuring a swap space or pagefile on a mass-storage device (HDD or SSD)."
+  "acronym": "",
+  "term": "virtual RAM",
+  "def": "An OS mediates access to random-access memory (RAM) devices by assigning a virtual address space to each process. As well as protecting memory access, the memory capacity can be extended by configuring a swap space or pagefile on a mass-storage device (HDD or SSD).",
+  "img": ""
  },
  {
-  "acronym": "virtualization",
-  "term": " Computing environment where multiple independent operating systems can be installed to a single hardware platform and run simultaneously."
+  "acronym": "",
+  "term": "virtualization",
+  "def": "Computing environment where multiple independent operating systems can be installed to a single hardware platform and run simultaneously.",
+  "img": ""
  },
  {
-  "acronym": "virtualization support",
-  "term": " CPU extensions to allow better performance when a host runs multiple guest operating systems or VMs."
+  "acronym": "",
+  "term": "virtualization support",
+  "def": "CPU extensions to allow better performance when a host runs multiple guest operating systems or VMs.",
+  "img": ""
  },
  {
   "acronym": "VoIP",
-  "term": " Voice over Internet Protocol (VoIP)  Generic name for protocols that carry voice traffic over data networks."
+  "term": "Voice over Internet Protocol (VoIP)",
+  "def": "Generic name for protocols that carry voice traffic over data networks.",
+  "img": ""
  },
  {
-  "acronym": "wattage rating",
-  "term": " Measure of how much power can be supplied by a PSU."
+  "acronym": "",
+  "term": "wattage rating",
+  "def": "Measure of how much power can be supplied by a PSU.",
+  "img": ""
  },
  {
-  "acronym": "webcam",
-  "term": " Type of digital camera used to stream and record video. There are many types, from devices built into laptops to standalone units. While early devices were only capable of low resolutions, most webcams are now HD-capable."
+  "acronym": "",
+  "term": "webcam",
+  "def": "Type of digital camera used to stream and record video. There are many types, from devices built into laptops to standalone units. While early devices were only capable of low resolutions, most webcams are now HD-capable.",
+  "img": ""
  },
  {
-  "acronym": "web server",
-  "term": " provides client access using HTTP or its secure version (HTTPS). "
+  "acronym": "",
+  "term": "web server",
+  "def": "provides client access using HTTP or its secure version (HTTPS). ",
+  "img": ""
  },
  {
   "acronym": "WAN",
-  "term": " wide area network (WAN)  Network scope that spans a large geographical area, incorporating more than one site and often a mix of different media types and protocols plus the use of public telecommunications networks."
+  "term": "wide area network (WAN)",
+  "def": "Network scope that spans a large geographical area, incorporating more than one site and often a mix of different media types and protocols plus the use of public telecommunications networks.",
+  "img": ""
  },
  {
-  "acronym": "Wi-Fi",
-  "term": " Brand name for the IEEE 802.11 standards that can be used to implement a wireless local area network (WLAN)."
+  "acronym": "",
+  "term": "Wi-Fi",
+  "def": "Brand name for the IEEE 802.11 standards that can be used to implement a wireless local area network (WLAN).",
+  "img": ""
  },
  {
-  "acronym": "Wi-Fi analyzer",
-  "term": " Device or software that can report characteristics of a WLAN, such as signal strength and channel utilization."
+  "acronym": "",
+  "term": "Wi-Fi analyzer",
+  "def": "Device or software that can report characteristics of a WLAN, such as signal strength and channel utilization.",
+  "img": ""
  },
  {
   "acronym": "WISP",
-  "term": " Wireless Internet Service Provider (WISP) ISP offering Internet access over ground-based Line of Sight (LoS) microwave transmitters."
+  "term": "Wireless Internet Service Provider (WISP)",
+  "def": "ISP offering Internet access over ground-based Line of Sight (LoS) microwave transmitters.",
+  "img": ""
  },
  {
   "acronym": "WLAN",
-  "term": " wireless local area network (WLAN)  Network scope and type that uses wireless radio communications based on some variant of the 802.11 (Wi-Fi) standard series."
+  "term": "wireless local area network (WLAN)",
+  "def": "Network scope and type that uses wireless radio communications based on some variant of the 802.11 (Wi-Fi) standard series.",
+  "img": ""
  }
 ]

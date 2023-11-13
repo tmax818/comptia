@@ -8,20 +8,19 @@
  {
   "acronym": "",
   "term": "64-bit",
-  "def": "Processing modes referring to the size of each instruction processed by the CPU.  The main 64-bit platform is called AMD64 or EM64T (by Intel). Software can be compiled as 32-bit or 64-bit. 64-bit CPUs can run most 32-bit software, but a 32-bit CPU cannot execute 64-bit software. ",
+  "def": "Processing modes referring to the size of each instruction processed by the CPU.  The main 64-bit platform is called AMD64 or EM64T (by Intel). Software can be compiled as 32-bit or 64-bit. 64-bit CPUs can run most 32-bit software, but a 32-bit CPU cannot execute 64-bit software.",
   "img": ""
  },
  {
   "acronym": "",
   "term": "3-D Printer",
-  "def": "Hardware device capable of small-scale manufacturing. Most 3-D printers use either a variety of filament (typically plastic) or resin media with different properties.",
+  "def": "Hardware for small-scale manufacturing. Most 3-D printers use either a variety of filament (typically plastic) or resin media with different properties.",
   "img": ""
  },
  {
   "acronym": "",
   "term": "802.11 standards",
-  "def": "Specifications developed by IEEE for wireless networking over microwave radio transmission in the 2.4 GHz, 5 GHz, and 6 GHz frequency bands. The Wi-Fi standards brand has six main iterations: a, b, g, Wi-Fi 4 (n), Wi-Fi 5 (ac), and Wi-Fi 6 (ax). These specify different modulation techniques, supported distances, and data rates, plus special features, such as channel bonding, MIMO, and MU-MIMO.",
-  "img": ""
+  "def": "Specifications developed by IEEE for wireless networking over microwave radio transmission in the 2.4 GHz, 5 GHz, and 6 GHz frequency bands. "
  },
  {
   "acronym": "",
@@ -737,7 +736,7 @@
  {
   "acronym": "",
   "term": "hub",
-  "def": "Layer 1 (Physical) network device used to implement a star network topology on legacy Ethernet networks, working as a multiport repeater.",
+  "def": "Layer 1 (Physical) network device used to implement a star network topology on legacy Ethernet networks, working as a multi-port repeater.",
   "img": ""
  },
  {
@@ -893,8 +892,8 @@
  {
   "acronym": "",
   "term": "jitter",
-  "def": "Variation in the time it takes for a signal to reach the recipient. Jitter manifests itself as an inconsistent rate of packet delivery. If packet loss or delay is&nbsp",
-  "img": "excessive, then noticeable audio or video problems (artifacts) are experienced by users."
+  "def": "Variation in the time it takes for a signal to reach the recipient, an inconsistent rate of packet delivery. If packet loss or delay is excessive, then noticeable audio or video problems (artifacts) are experienced by users.",
+  "img": ""
  },
  {
   "acronym": "LGA",
@@ -1096,7 +1095,7 @@
  },
  {
   "acronym": "MIMO",
-  "term": "multiple input multiple output (MIMO)",
+  "term": "multiple input multiple output(MIMO)",
   "def": "Use of multiple reception and transmission antennas to boost wireless bandwidth via spatial multiplexing and to boost range and signal reliability via spatial diversity.",
   "img": ""
  },
@@ -1114,7 +1113,7 @@
  },
  {
   "acronym": "MU-MIMO",
-  "term": "multi-user MIMO (MU-MIMO)",
+  "term": "multi-user MIMO(MU-MIMO)",
   "def": "Use of spatial multiplexing to allow a wireless access point to support multiple client stations simultaneously.",
   "img": ""
  },
@@ -1144,14 +1143,14 @@
  },
  {
   "acronym": "NAS",
-  "term": "network attached storage (NAS)",
+  "term": "network attached storage(NAS)",
   "def": "Storage device enclosure with network port and an embedded OS that supports typical network file access protocols (FTP and SMB for instance).",
   "img": ""
  },
  {
   "acronym": "NIC",
   "term": "network interface card (NIC)",
-  "def": "Adapter card that provides one or more Ethernet ports for connecting hosts to a network so that they can exchange data over a link.",
+  "def": "Adapter card that provides one or more Ethernet ports for connecting hosts to a network, transforms electric signal to binary",
   "img": ""
  },
  {

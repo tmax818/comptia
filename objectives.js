@@ -127,7 +127,7 @@ objectives = [
                 {id: 1, term: "TFTP", notes: []}
             ]},
             {id: 1, term: "connection-oriented", notes: [
-                {id: 1, term: "HTTPS", notes: []}
+                {id: 1, term: "HTTPS", notes: []},
                 {id: 1, term: "SSH", notes: []}
 
             ]},

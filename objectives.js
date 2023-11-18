@@ -105,11 +105,32 @@ objectives = [
     {id: 1, objective: "TCP vs UDP ports, protocols, and purposes", topics: [
         {id: 1, topic: "ports and protocols", subtopics: [
             {id: 1, term: "20/21", notes: []},
+            {id: 1, term: "22", notes: []},
+            {id: 1, term: "23", notes: []},
+            {id: 1, term: "25", notes: []},
+            {id: 1, term: "53", notes: []},
+            {id: 1, term: "67/68", notes: []},
+            {id: 1, term: "80", notes: []},
+            {id: 1, term: "110", notes: []},
+            {id: 1, term: "137/139", notes: []},
+            {id: 1, term: "143", notes: []},
+            {id: 1, term: "161/162", notes: []},
+            {id: 1, term: "389", notes: []},
+            {id: 1, term: "443", notes: []},
+            {id: 1, term: "445", notes: []},
+            {id: 1, term: "3389", notes: []},
             
         ]},
         {id: 2, topic: "TCP vs UDP", subtopics: [
-            {id: 1, term: "connectionless", notes: []},
-            {id: 1, term: "connection-oriented", notes: []},
+            {id: 1, term: "connectionless", notes: [
+                {id: 1, term: "DHCP", notes: []},
+                {id: 1, term: "TFTP", notes: []}
+            ]},
+            {id: 1, term: "connection-oriented", notes: [
+                {id: 1, term: "HTTPS", notes: []}
+                {id: 1, term: "SSH", notes: []}
+
+            ]},
             
         ]},
     ]},
@@ -652,6 +673,20 @@ objectives = [
     {id: 6, objective: "printers", topics: [
         {id: 1, topic: "symptoms", subtopics: [
             {id: 1, term: "lines down pages", notes: []},
+            {id: 1, term: "garbled print", notes: []},
+            {id: 1, term: "toner not fusing to paper", notes: []},
+            {id: 1, term: "paper jams", notes: []},
+            {id: 1, term: "faded print", notes: []},
+            {id: 1, term: "incorrect paper size", notes: []},
+            {id: 1, term: "paper not feeding", notes: []},
+            {id: 1, term: "multipage misfeed", notes: []},
+            {id: 1, term: "multiple prints pending in  queue", notes: []},
+            {id: 1, term: "speckling on page", notes: []},
+            {id: 1, term: "double/echo images", notes: []},
+            {id: 1, term: "incorrect color settings", notes: []},
+            {id: 1, term: "grinding noise", notes: []},
+            {id: 1, term: "finishing issues", notes: []},
+            {id: 1, term: "incorrect page orientation", notes: []},
             
         ]}
         
@@ -660,9 +695,16 @@ objectives = [
     {id: 7, objective: "networks", topics: [
         {id: 1, topic: "symptoms", subtopics: [
             {id: 1, term: "intermittent connectivity", notes: []},
-
+            {id: 1, term: "limited connectivity", notes: []},
+            {id: 1, term: "slow network speeds", notes: []},
+            {id: 1, term: "jitter", notes: []},
+            {id: 1, term: "poor VoIP quality", notes: []},
+            {id: 1, term: "port flapping", notes: []},
+            {id: 1, term: "high latency", notes: []},
+            {id: 1, term: "external interface", notes: []},
+            
         ]}
-
+        
     ]},
 
 ]}

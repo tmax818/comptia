@@ -431,22 +431,90 @@ objectives = [
     
     {id: 6, objective: "multi-function devices and printer settings ", topics: [
         {id: 1, topic: "Properly unboxing a device setup location considerations", subtopics: []},
-        {id: 2, topic: "Use appropriate drivers for a given OS", subtopics: []},
-        {id: 3, topic: "connectivity", subtopics: []},
-        {id: 4, topic: "public/shared devices", subtopics: []},
-        {id: 5, topic: "configuration settings", subtopics: []},
-        {id: 6, topic: "security", subtopics: []},
-        {id: 7, topic: "network scan services", subtopics: []},
+        {id: 2, topic: "Use appropriate drivers for a given OS", subtopics: [
+            {id: 1, term: "PCL vs PostScript", notes: []},
+        ]},
+        {id: 3, topic: "connectivity", subtopics: [
+            {id: 1, term: "USB", notes: []},
+            {id: 1, term: "ethernet", notes: []},
+            {id: 1, term: "wireless", notes: []},
+            
+        ]},
+        {id: 4, topic: "public/shared devices", subtopics: [
+            {id: 1, term: "printer share", notes: []},
+            {id: 1, term: "print server", notes: []},
+            
+        ]},
+        {id: 5, topic: "configuration settings", subtopics: [
+            {id: 1, term: "duplex", notes: []},
+            {id: 1, term: "orientation", notes: []},
+            {id: 1, term: "tray settings", notes: []},
+            {id: 1, term: "quality", notes: []},
+            
+        ]},
+        {id: 6, topic: "security", subtopics: [
+            {id: 1, term: "user authentication", notes: []},
+            {id: 1, term: "badging", notes: []},
+            {id: 1, term: "audit logs", notes: []},
+            {id: 1, term: "secured prints", notes: []},
+            
+        ]},
+        {id: 7, topic: "network scan services", subtopics: [
+            {id: 1, term: "email", notes: []},
+            {id: 1, term: "SMB", notes: []},
+            {id: 1, term: "cloud services", notes: []},
+            
+        ]},
         {id: 8, topic: "automatic document feeder(ADF)/flatbed scanner", subtopics: []}
         
     ]},
     
     {id: 7, objective: "printer consumables", topics: [
-        {id: 1, topic: "laser", subtopics: []},
-        {id: 2, topic: "inkjet", subtopics: []},
-        {id: 3, topic: "thermal", subtopics: []},
-        {id: 4, topic: "impact", subtopics: []},
-        {id: 5, topic: "3D", subtopics: []}
+        {id: 1, topic: "laser", subtopics: [
+            {id: 1, term: "imaging drum", notes: []},
+            {id: 1, term: "fuser assembly", notes: []},
+            {id: 1, term: "transfer belt", notes: []},
+            {id: 1, term: "transfer roller", notes: []},
+            {id: 1, term: "pickup rollers", notes: []},
+            {id: 1, term: "separation pads", notes: []},
+            {id: 1, term: "duplexing assembly", notes: []},
+            {id: 1, term: "imaging process", notes: []},
+            {id: 1, term: "maintenance", notes: []},
+            
+        ]},
+        {id: 2, topic: "inkjet", subtopics: [
+            {id: 1, term: "ink cartridge", notes: []},
+            {id: 1, term: "print head", notes: []},
+            {id: 1, term: "roller", notes: []},
+            {id: 1, term: "feeder", notes: []},
+            {id: 1, term: "duplexing assembly", notes: []},
+            {id: 1, term: "carriage belt", notes: []},
+            {id: 1, term: "calibration", notes: []},
+            {id: 1, term: "maintenance", notes: []},
+            
+            
+        ]},
+        {id: 3, topic: "thermal", subtopics: [
+            {id: 1, term: "feed assembly", notes: []},
+            {id: 1, term: "heating element", notes: []},
+            {id: 1, term: "special thermal paper", notes: []},
+            {id: 1, term: "maintenance", notes: []},
+            
+        ]},
+        {id: 4, topic: "impact", subtopics: [
+            {id: 1, term: "print head", notes: []},
+            {id: 1, term: "ribbon", notes: []},
+            {id: 1, term: "tractor feed", notes: []},
+            {id: 1, term: "impact paper", notes: []},
+            {id: 1, term: "maintenance", notes: []},
+            
+        ]},
+        {id: 5, topic: "3D", subtopics: [
+            {id: 1, term: "filament", notes: []},
+            {id: 1, term: "resin", notes: []},
+            {id: 1, term: "print bed", notes: []},
+            
+        ]}
         
     ]},
     
@@ -455,14 +523,40 @@ objectives = [
 {id: 4, domain: "virtualization and cloud computing", topics:[
     
     {id: 1, objective: "concepts", topics: [
-        {id: 1, topic: "models", subtopics: []},
-        {id: 2, topic: "characteristics", subtopics: []},
-        {id: 3, topic: "desktop virtualization", subtopics: []}
+        {id: 1, topic: "models", subtopics: [
+            {id: 1, term: "private", notes: []},
+            {id: 1, term: "public", notes: []},
+            {id: 1, term: "hybrid", notes: []},
+            {id: 1, term: "community", notes: []},
+            {id: 1, term: "IaaS", notes: []},
+            {id: 1, term: "SaaS", notes: []},
+            {id: 1, term: "PaaS", notes: []},
+            
+        ]},
+        {id: 2, topic: "characteristics", subtopics: [
+            {id: 1, term: "shared resources", notes: []},
+            {id: 1, term: "metered utilization", notes: []},
+            {id: 1, term: "rapid elasticity", notes: []},
+            {id: 1, term: "high availability", notes: []},
+            {id: 1, term: "file synchronization", notes: []},
+            
+        ]},
+        {id: 3, topic: "desktop virtualization", subtopics: [
+            {id: 1, term: "infrastructure", notes: []},
+            {id: 1, term: "VD on premises", notes: []},
+            {id: 1, term: "VD in the cloud", notes: []},
+            
+        ]}
         
     ]},
     
     {id: 2, objective: "client-side virtualization", topics: [
-        {id: 1, topic: "purpose", subtopics: []},
+        {id: 1, topic: "purpose", subtopics: [
+            {id: 1, term: "sandbox", notes: []},
+            {id: 1, term: "test development", notes: []},
+            {id: 1, term: "application virtualization", notes: []},
+            
+        ]},
         {id: 2, topic: "resource requirements", subtopics: []},
         {id: 3, topic: "security requirements", subtopics: []}
         
@@ -473,37 +567,101 @@ objectives = [
 {id: 5, domain: "troubleshooting", topics:[
     
     {id: 1, objective: "methodology", topics: [
-        {id: 1, topic: " Always consider corporate policies, procedures, and impacts before implementing changes", subtopics: []}
+        {id: 1, topic: " Always consider corporate policies, procedures, and impacts before implementing changes", subtopics: [
+            {id: 1, term: "Problem", notes: []},
+            {id: 1, term: "Theory", notes: []},
+            {id: 1, term: "Test", notes: []},
+            {id: 1, term: "Plan", notes: []},
+            {id: 1, term: "Verify", notes: []},
+            {id: 1, term: "Document", notes: []},
+            
+        ]}
         
     ]},
     
     {id: 2, objective: "motherboards, RAM, CPU, power", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "POST beeps", notes: []},
+            {id: 1, term: "BSOD/pinwheel", notes: []},
+            {id: 1, term: "black screen", notes: []},
+            {id: 1, term: "no power", notes: []},
+            {id: 1, term: "sluggish", notes: []},
+            {id: 1, term: "overheating", notes: []},
+            {id: 1, term: "burning smell", notes: []},
+            {id: 1, term: "intermittent shutdown", notes: []},
+            {id: 1, term: "app crashes", notes: []},
+            {id: 1, term: "grinding noise", notes: []},
+            {id: 1, term: "capacitor swelling", notes: []},
+            {id: 1, term: "inaccurate system date/time", notes: []},
+        ]}
         
     ]},
     
     {id: 3, objective: "storage devices and RAID arrays", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "LED status indicators", notes: []},
+            {id: 1, term: "grinding noise", notes: []},
+            {id: 1, term: "clicking sound", notes: []},
+            {id: 1, term: "bootable device not found", notes: []},
+            {id: 1, term: "data loss/corruption", notes: []},
+            {id: 1, term: "RAID failure", notes: []},
+            {id: 1, term: "SMART failure", notes: []},
+            {id: 1, term: "IOPS", notes: []},
+            {id: 1, term: "missing drives in OS", notes: []}
+            
+        ]}
         
     ]},
     
     {id: 4, objective: "video, projector and display", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "incorrect data source", notes: []},
+            {id: 1, term: "physical cabling issues", notes: []},
+            {id: 1, term: "burned-out bulb", notes: []},
+            {id: 1, term: "fuzzy image", notes: []},
+            {id: 1, term: "display burn-in", notes: []},
+            {id: 1, term: "dead pixels", notes: []},
+            {id: 1, term: "flashing screen", notes: []},
+            {id: 1, term: "incorrect color display", notes: []},
+            {id: 1, term: "audio issues", notes: []},
+            {id: 1, term: "dim image", notes: []},
+            {id: 1, term: "intermittent projector shutdown", notes: []},
+            
+        ]}
         
     ]},
     
-    {id: 5, objective: "power supplies", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+    {id: 5, objective: "mobile devices", topics: [
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "poor battery health", notes: []},
+            {id: 1, term: "swollen battery", notes: []},
+            {id: 1, term: "broken screen", notes: []},
+            {id: 1, term: "improper charging", notes: []},
+            {id: 1, term: "poor/no connectivity", notes: []},
+            {id: 1, term: "liquid damage", notes: []},
+            {id: 1, term: "overheating", notes: []},
+            {id: 1, term: "digitizer issues", notes: []},
+            {id: 1, term: "physically damaged ports", notes: []},
+            {id: 1, term: "malware", notes: []},
+            {id: 1, term: "cursor drift/touch calibration", notes: []},
+            
+        ]}
         
     ]},
     
     {id: 6, objective: "printers", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "lines down pages", notes: []},
+            
+        ]}
         
     ]},
     
     {id: 7, objective: "networks", topics: [
-        {id: 1, topic: "symptoms", subtopics: []}
+        {id: 1, topic: "symptoms", subtopics: [
+            {id: 1, term: "intermittent connectivity", notes: []},
+
+        ]}
 
     ]},
 

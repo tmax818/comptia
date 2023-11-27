@@ -1,5 +1,3 @@
-objectives = [
-
 {id: 1, domain: "mobile devices", topics:[
 
     {id: 1, objective: "laptop hardware and components", topics: [
@@ -753,6 +751,3 @@ objectives = [
     ]},
 
 ]}
-
-
-]

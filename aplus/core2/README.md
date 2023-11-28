@@ -40,19 +40,19 @@
   - `chkdsk`
   - net user
   - net use
-  - tracert
-  - format
-  - xcopy
-  - copy
-  - robocopy
-  - gpupdate
-  - gpresult
-  - shutdown
-  - sfc
-  - [command name] /?
-  - diskpart
-  - pathping
-  - winver
+  - `tracert`
+  - `format`
+  - `xcopy`
+  - `copy`
+  - `robocopy`
+  - `gpupdate`
+  - `gpresult`
+  - `shutdown`
+  - `sfc`
+  - `[command name] /?`
+  - `diskpart`
+  - `pathping`
+  - `winver`
 
 ## 1.3 Given a scenario, use features and tools of the Microsoft Windows 10 operating system (OS).
 

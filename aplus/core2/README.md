@@ -210,7 +210,7 @@
   - Fourth extended filesystem (ext4)
   - Apple File System (APFS)
   - Extensible File Allocation Table (exFAT)
-  
+  dfrgui.exe
 - Vendor life-cycle limitations
   - End-of-life (EOL)
   - Update limitations
@@ -769,7 +769,7 @@
   - Grandfather-father-son (GFS)
   - 3-2-1 backup rule
 
-4.4 Given a scenario, use common safety procedures.
+## 4.4 Given a scenario, use common safety procedures.
 
 - Electrostatic discharge (ESD)straps
 - ESD mats
